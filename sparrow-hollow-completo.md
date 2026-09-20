@@ -3567,19 +3567,19 @@ Foi a própria senhorita Pruitt quem nos deu esse prazo, sem querer, na mesma co
 
 Sete dias até o equinócio. Sete dias pra descobrir um jeito de impedir o que quer que estivesse prestes a acontecer, durante os quais Marcus — ou aquilo que tinha voltado no lugar dele — continuou, discretamente, ampliando seu círculo de novos "amigos" mais novos pela cidade.
 
-— Precisamos contar pra alguém — insistiu Cass, pela terceira vez naquela semana, os três reunidos no meu quarto depois do jantar. — Um adulto. Alguém que possa realmente fazer alguma coisa.
+— Precisamos contar pra alguém — insistiu Cass, pela terceira vez naquela semana, os três reunidos no meu quarto depois do jantar. — Um adulto. Alguém que possa fazer alguma coisa.
 
 — Já tentamos — lembrou Sam.
 
-— Não tentamos direito. Não com provas de verdade.
+— Não tentamos direito. Não com prova.
 
 Foi essa frase, na verdade, que nos deu a ideia seguinte.
 
-— A câmera do meu pai — falei, de repente. — A polaroide. Se a gente conseguir uma foto do Marcus fazendo alguma coisa estranha, algo que ele não consiga explicar de um jeito normal...
+— A câmera do meu pai — falei. — A Polaroid. Se a gente conseguir uma foto do Marcus fazendo alguma coisa estranha...
 
-— E se ele perceber a câmera? — perguntou Cass.
+— E se ele perceber?
 
-— A gente precisa arriscar.
+— A gente arrisca.
 
 ---
 
@@ -3605,11 +3605,13 @@ Na noite antes do equinócio, a prova final apareceu sozinha, sem que precisáss
 
 Escondidos atrás da mesma velha caminhonete abandonada na Old Quarry Road, vimos Marcus liderar um grupo de seis crianças — todas entre oito e dez anos, todas de famílias que eu reconhecia da cidade — através da cerca de arame farpado, na escuridão, cada uma delas carregando, estranhamente, uma pequena lanterna acesa.
 
-— Meu Deus — sussurrou Cass. — Ele está levando eles agora. Antes mesmo do equinócio.
+— Meu Deus — sussurrou Cass. — Ele está levando eles agora.
 
 — Precisamos impedir — falei, já me levantando.
 
-— Somos só três, Denny — Sam segurou meu braço. — Contra Marcus e sabe-se lá o que mais está esperando lá dentro.
+Sam segurou meu braço.
+
+— Somos só três, Denny. Contra Marcus e sabe-se lá o que está lá dentro.
 
 — Então o que a gente faz?
 
@@ -3623,9 +3625,9 @@ Corremos até a casa dele mais rápido do que jamais tínhamos corrido, e dessa 
 
 Ele nos ouviu parado na porta, o rosto endurecendo a cada frase, e quando terminamos, já estava calçando as botas e pegando as chaves do carro.
 
-— Eu sabia que esse dia ia chegar de novo — disse ele, mais para si mesmo do que para nós. — Rezei trinta e sete anos pra estar errado.
+— Eu sabia que esse dia ia chegar de novo — disse ele, mais para si mesmo. — Rezei trinta e sete anos pra estar errado.
 
-Ele parou na porta, olhando para nós três por um longo momento.
+Ele parou na porta.
 
 — Vocês três ficam aqui.
 
@@ -3633,7 +3635,7 @@ Ele parou na porta, olhando para nós três por um longo momento.
 
 O xerife Boyle nos encarou por um longo momento, e então, para minha surpresa completa, assentiu.
 
-— Tudo bem. Mas vocês ficam exatamente atrás de mim, e fazem exatamente o que eu mandar.
+— Tudo bem. Mas ficam atrás de mim e fazem o que eu mandar.
 
 Entramos no carro dele, o motor ligando na escuridão da noite que antecedia o equinócio, e por toda a viagem até a Old Quarry Road, todos nós em silêncio absoluto, eu não conseguia parar de pensar numa única coisa.
 
@@ -3678,11 +3680,11 @@ Ele finalmente se virou, e no facho de nossas lanternas, vi que seus olhos brilh
 
 — Ajudando a fazer o quê?
 
-Marcus sorriu — o sorriso errado, mais largo agora do que jamais o vira.
+Marcus sorriu — o sorriso errado, mais largo do que jamais o vira.
 
 — Vocês vão ver.
 
-— SOLTA ELES AGORA! — gritou o xerife Boyle, a arma erguida, mas travado, incapaz de mirar sem risco de acertar uma das crianças.
+— SOLTA ELES AGORA! — gritou o xerife Boyle, a arma erguida, mas sem poder mirar sem risco de acertar uma das crianças.
 
 Marcus riu — um som que usava a garganta dele, mas que carregava um eco duplo, como se mais de uma coisa estivesse rindo através da mesma boca ao mesmo tempo.
 
@@ -3697,9 +3699,9 @@ O rosto do xerife Boyle desmoronou por um instante diante daquelas palavras, a a
 
 Foi Sam quem, inesperadamente, deu um passo à frente.
 
-— Marcus — disse ele, a voz calma, firme, completamente diferente do garoto tímido que eu conhecia. — Lembra do dia em que a gente construiu aquela rampa de skate?
+— Marcus — disse ele, calmo. — Lembra do dia em que a gente construiu aquela rampa de skate?
 
-O sorriso de Marcus vacilou, minimamente.
+O sorriso de Marcus vacilou.
 
 — Isso não importa agora.
 
@@ -3709,21 +3711,21 @@ O sorriso de Marcus vacilou, minimamente.
 
 — Você sempre foi assim, Marcus. Nunca desistia de nada. Nem quando devia.
 
-Os olhos dourados de Marcus tremeram, pela primeira vez, uma fresta de humanidade lutando visivelmente para romper a superfície.
+Os olhos dourados de Marcus tremeram.
 
 — Ela tá me machucando, Sam — a voz saiu, de repente, genuinamente dele, quebrada, apavorada. — Toda vez que eu tento lutar, ela machuca mais.
 
-— Então luta mesmo assim — respondeu Sam, sem hesitar. — Porque a gente não vai desistir de você. Nunca vamos.
+— Então luta mesmo assim — respondeu Sam. — A gente não vai desistir de você.
 
 ---
 
 Cass foi a próxima a se mover, caminhando até ficar ao lado de Sam, os dois enfrentando Marcus juntos.
 
-— Eu também não vou desistir — disse ela, a voz tremendo mas firme. — Nem de você, nem daquelas crianças.
+— Eu também não vou desistir — disse ela. — Nem de você, nem daquelas crianças.
 
 Ela olhou diretamente para a ausência pulsante no fundo do buraco, sem dizer nada pra ela — não sabia o que dizer pra uma coisa que não tinha rosto, e talvez fosse essa a parte mais estranha de tudo, que nenhum de nós tinha palavra nenhuma pra ela, só pro Marcus.
 
-— Você pode usar o rosto dele — continuou, olhando de novo pro Marcus. — Pode usar a voz dele, pode até saber cada lembrança que ele tem guardada. Mas não consegue fingir aquilo que a gente sente de verdade um pelo outro.
+— Você pode usar o rosto dele — continuou. — A voz. Até as lembranças. Mas não consegue fingir o que a gente sente de verdade um pelo outro.
 
 O chão da pedreira tremeu, de repente, uma vibração profunda que subiu através das solas dos meus tênis, e a ausência pulsante no centro pareceu, por um instante, recuar minimamente sobre si mesma, como algo se encolhendo diante de dor inesperada.
 
@@ -3781,7 +3783,7 @@ Ele ergueu os olhos para mim, ainda de joelhos na terra, e por um momento não d
 
 — Você voltou — falei, ajoelhando ao lado dele, abraçando-o com toda força que tinha.
 
-— Vocês me trouxeram de volta — respondeu ele, a voz embargada. — Vocês não desistiram.
+— Vocês me trouxeram de volta — respondeu ele, a voz embargada. — Não desistiram.
 
 Atrás de nós, Cass e Sam se juntaram ao abraço, os quatro ajoelhados juntos na terra escura da pedreira, chorando e rindo ao mesmo tempo, exatamente do jeito bagunçado e imperfeito que só amizade de verdade sabe fazer.
 
@@ -3792,7 +3794,7 @@ Atrás de nós, Cass e Sam se juntaram ao abraço, os quatro ajoelhados juntos n
 
 Sparrow Hollow levou duas semanas pra parecer normal de novo, e eu escrevo isso sabendo exatamente o que aquela frase parece, e escolhendo escrevê-la mesmo assim, porque foi só isso que levou: duas semanas de cascas grossas se formando por cima de uma coisa que nenhum adulto na cidade quis examinar de perto.
 
-"Um grupo de crianças se perdeu perto da pedreira durante um jogo noturno" — foi assim que o incidente entrou, para sempre, na memória coletiva de Sparrow Hollow, arquivado ao lado de tantas outras meias-verdades que a cidade preferia carregar a enfrentar de frente.
+"Um grupo de crianças se perdeu perto da pedreira durante um jogo noturno" — foi assim que o incidente entrou na memória coletiva de Sparrow Hollow, arquivado ao lado de tantas outras meias-verdades que a cidade preferia carregar a enfrentar de frente.
 
 O xerife Boyle nunca escreveu, no relatório final, uma única palavra sobre luz, sobre olhos dourados, sobre ausência com forma. Escreveu "condições de baixa visibilidade" e "desorientação coletiva", e assinou embaixo com uma caligrafia firme demais pra ser a de um homem inteiramente em paz com o que estava assinando.
 
@@ -3828,11 +3830,11 @@ Marcus demorou a rir de novo do jeito antigo — não porque não conseguisse, m
 
 Foi Cass quem resolveu isso, à sua maneira direta de sempre, numa tarde no início de outubro em que os quatro estávamos de volta ao píer pela primeira vez desde antes de tudo.
 
-— Conta a piada do padre e do rabino — disse ela, do nada.
+— Conta a piada do padre e do rabino — disse ela.
 
 — Que piada?
 
-— Você sabe qual. Conta errado, do jeito que você sempre conta errado.
+— Você sabe qual. Conta errado, do jeito de sempre.
 
 Ele contou. Errou o final, como sempre errava, trocando a punchline por outra coisa qualquer que não fazia sentido nenhum.
 
@@ -3878,7 +3880,7 @@ O xerife Boyle nunca mais mencionou aquela noite na nossa frente, nem uma vez, e
 
 Ele me olhou, e havia nos olhos dele um pedido silencioso que eu só entendi anos depois de verdade.
 
-— Cuidem uns dos outros — disse ele. — É a única coisa que funciona, no fim. Não fui eu que resolvi aquela noite, filho. Foi vocês três gritando pra dentro daquele buraco coisa que eu nunca ia conseguir gritar por ele.
+— Cuidem uns dos outros — disse ele. — É a única coisa que funciona, no fim. Não fui eu que resolvi aquela noite. Foram vocês três.
 
 ---
 
@@ -3939,7 +3941,7 @@ O quintal da minha casa me ensinaria, ao longo dos anos seguintes, a outra liç�
 
 Faz trinta anos.
 
-Marcus é dono da oficina mecânica que já foi do pai dele, casado, dois filhos, ainda ri errando o final das piadas, ainda estremece de leve — só quem conhece de perto percebe — toda vez que alguém menciona a Old Quarry Road, que hoje tem uma placa nova avisando sobre propriedade privada e uma cerca bem mais alta do que a de arame farpado que a gente pulava aos treze anos.
+Marcus é dono da oficina mecânica que já foi do pai dele, casado, dois filhos. Ainda ri errando o final das piadas e estremece de leve — só quem conhece percebe — quando alguém menciona a Old Quarry Road, hoje protegida por uma cerca bem mais alta que a de arame farpado que a gente pulava aos treze anos.
 
 Cass dá aula na mesma escola onde estudamos, terceira série, e outro dia me mandou uma foto da própria sala de aula — um cartaz colorido na parede, letras grandes, dizendo algo sobre amizade verdadeira que ela mesma escreveu à mão. Não perguntei se era coincidência. Já aprendi, com ela, que algumas perguntas não precisam de resposta em voz alta.
 
@@ -3956,8 +3958,8 @@ Encontrei uma matéria antiga, de anos atrás, assinada por outro jornalista, de
 
 Fiquei olhando pra tela por um tempo comprido, o coração batendo de um jeito que eu não sentia desde os treze anos.
 
-Não escrevi pra ele. Não sei, até hoje, se ele ainda está vivo, ou onde está, ou se lembraria de mim se eu aparecesse na porta dele com essa história inteira debaixo do braço.
-Só fechei o computador, e fui dormir, e não dormi bem.
+Não escrevi pra ele. Não sei, até hoje, se ainda está vivo, onde está, ou se lembraria de mim se eu aparecesse na porta dele com essa história inteira.
+Fechei o computador e fui dormir. Não dormi bem.
 ---
 
 Na manhã seguinte, encontrei, entre as contas e propagandas de sempre, um envelope.
