@@ -487,9 +487,9 @@ Ele não ficou parado, é claro, e o desenho que sobrou era só um borrão de li
 
 Entramos todos encharcados na cozinha da Cass um tempo depois, enrolados em toalhas emprestadas, bebendo chocolate quente que a avó dela fez sem que ninguém pedisse, e ficamos ali sentados vendo a chuva continuar lá fora através da janela embaçada, sem falar muito, sem precisar falar muito, só sendo quatro crianças secas por dentro e molhadas por fora, esperando o verão continuar.
 
-Foi um dia perfeitamente comum. Eu só entendi, décadas depois, o quanto os dias perfeitamente comuns também merecem ser lembrados com o mesmo cuidado que a gente reserva pros importantes — talvez até mais, porque ninguém avisa que vai ser a última vez que alguma coisa simples assim vai acontecer exatamente daquele jeito.
+Foi um dia perfeitamente comum. Eu só entendi, muito tempo depois, o quanto os dias perfeitamente comuns também merecem ser lembrados com o mesmo cuidado que a gente reserva pros importantes — talvez até mais, porque ninguém avisa que vai ser a última vez que alguma coisa simples assim vai acontecer exatamente daquele jeito.
 
-E, décadas depois, escrevendo estas páginas, ainda não consigo decidir se foi coincidência ou aviso — porque exatamente três meses depois, numa noite de agosto, seríamos nós quatro caminhando naquela mesma direção, para dentro daquelas mesmas árvores, sem ter a menor ideia do que estávamos prestes a encontrar.
+E, ainda hoje, escrevendo estas páginas, não consigo decidir se foi coincidência ou aviso — porque exatamente três meses depois, numa noite de agosto, seríamos nós quatro caminhando naquela mesma direção, para dentro daquelas mesmas árvores, sem ter a menor ideia do que estávamos prestes a encontrar.
 
 ---
 
@@ -2606,7 +2606,7 @@ Ele quebrou a promessa três dias depois. Não porque quisesse. Porque, quando o
 
 Não decidimos ir.
 
-Isso é importante que eu deixe claro, escrevendo agora, décadas depois, com todo o peso do que aconteceu naquela noite ainda pesando sobre cada palavra que escolho.
+Isso é importante que eu deixe claro agora, com todo o peso do que aconteceu naquela noite ainda presente em cada palavra que escolho.
 
 Não houve um momento de decisão consciente, nenhum de nós dizendo em voz alta "vamos até a pedreira". Houve, em vez disso, uma sequência de pequenos passos, cada um parecendo razoável isoladamente, que nos levou, sem que percebêssemos completamente como, até a cerca de arame farpado pouco depois da meia-noite.
 
