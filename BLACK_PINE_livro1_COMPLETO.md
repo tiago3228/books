@@ -12,8 +12,8 @@ Livro 3 — *Threshold*
 
 ---
 
-# PRÓLOGO
-## A Última Escolha
+## PRÓLOGO
+### A Última Escolha
 
 **15 de fevereiro de 1988 — 02h17**
 
@@ -271,8 +271,8 @@ E antes de entender a cidade...
 
 precisa entender por que eu fui até lá.
 
-# CAPÍTULO 1
-## CHEGADA
+## CAPÍTULO 1
+### CHEGADA
 
 **13 de outubro de 1987**
 
@@ -1176,8 +1176,8 @@ E, no escuro, disse:
 
 ---
 
-# CAPÍTULO 2
-## O QUARTO 17
+## CAPÍTULO 2
+### O QUARTO 17
 
 **13 de outubro de 1987 — 18h42**
 
@@ -1773,8 +1773,8 @@ A maçaneta começou a girar.
 
 
 
-# CAPÍTULO 3
-## A ESTAÇÃO
+## CAPÍTULO 3
+### A ESTAÇÃO
 
 **13 de outubro de 1987 — 20h31**
 
@@ -2502,8 +2502,8 @@ E uma pergunta que não consegui evitar:
 
 ---
 
-# CAPÍTULO 4
-## BLACK CEDAR
+## CAPÍTULO 4
+### BLACK CEDAR
 
 **14 de outubro de 1987 — 05h12**
 
@@ -3049,8 +3049,8 @@ E estava tremendo.
 
 ---
 
-# CAPÍTULO 5
-## A LOCADORA
+## CAPÍTULO 5
+### A LOCADORA
 
 **14 de outubro de 1987 — manhã**
 
@@ -3401,8 +3401,8 @@ Não perguntei qual das duas.
 ---
 
 
-# CAPÍTULO 6
-## A FITA
+## CAPÍTULO 6
+### A FITA
 
 **14 de outubro de 1987 — noite**
 
@@ -3683,8 +3683,8 @@ Contra o céu claro da manhã.
 ---
 
 
-# CAPÍTULO 7
-## MANSÃO MORGAN
+## CAPÍTULO 7
+### MANSÃO MORGAN
 
 **14 de outubro de 1987 — manhã**
 
@@ -3929,8 +3929,8 @@ Encerrando a conversa.
 ---
 
 
-# CAPÍTULO 8
-## A VOLTA
+## CAPÍTULO 8
+### A VOLTA
 
 **14 de outubro de 1987 — anoitecer**
 
@@ -4141,8 +4141,8 @@ Era um número que eu nunca tinha visto em nenhuma das outras.
 ---
 
 
-# CAPÍTULO 9
-## A BIBLIOTECÁRIA
+## CAPÍTULO 9
+### A BIBLIOTECÁRIA
 
 **15 de outubro de 1987 — manhã**
 
@@ -4403,8 +4403,8 @@ Onde antes se lia "Se você está lendo isto, significa que Samuel finalmente re
 ---
 
 
-# CAPÍTULO 10
-## NEVE
+## CAPÍTULO 10
+### NEVE
 
 **Início de dezembro de 1987**
 
@@ -4621,8 +4621,8 @@ Uma pausa.
 ---
 
 
-# CAPÍTULO 11
-## DEZESSETE MOEDAS
+## CAPÍTULO 11
+### DEZESSETE MOEDAS
 
 **Mesma noite**
 
@@ -4789,8 +4789,8 @@ E decidiu, em vez disso, enfrentá-la ao lado delas.
 ---
 
 
-# CAPÍTULO 12
-## A ESTAÇÃO, OUTRA VEZ
+## CAPÍTULO 12
+### A ESTAÇÃO, OUTRA VEZ
 
 **Mesma noite**
 
@@ -4947,8 +4947,8 @@ Como se estivesse apenas esperando que alguém atendesse de novo.
 ---
 
 
-# CAPÍTULO 13
-## DANIEL
+## CAPÍTULO 13
+### DANIEL
 
 **Madrugada seguinte**
 
@@ -5120,8 +5120,8 @@ A mesma letra do caderno de Thomas.
 
 ---
 
-# CAPÍTULO 14
-## ESPERE
+## CAPÍTULO 14
+### ESPERE
 
 **14 de fevereiro de 1988**
 
@@ -5290,8 +5290,8 @@ E, pela primeira vez desde que tudo aquilo começara, senti que finalmente sabia
 ---
 
 
-# CAPÍTULO 15
-## O PERFIL
+## CAPÍTULO 15
+### O PERFIL
 
 **14 de fevereiro de 1988, tarde**
 
@@ -5474,8 +5474,8 @@ Ela deu um passo à frente, e pela primeira vez em meses inteiros de investigaç
 ---
 
 
-# CAPÍTULO 16
-## A VÉSPERA
+## CAPÍTULO 16
+### A VÉSPERA
 
 **14 de fevereiro de 1988, noite**
 
@@ -5612,8 +5612,8 @@ Ela ergueu os olhos pra mim, e o luar deixava seu rosto quase sem cor, como se e
 ---
 
 
-# CAPÍTULO 17
-## O DIA 217
+## CAPÍTULO 17
+### O DIA 217
 
 **15 de fevereiro de 1988, manhã**
 
@@ -5738,8 +5738,8 @@ Porque, se havia uma coisa que quatro meses em Black Pine tinham me ensinado, er
 ---
 
 
-# CAPÍTULO 18
-## RAVENSWOOD DRIVE
+## CAPÍTULO 18
+### RAVENSWOOD DRIVE
 
 **15 de fevereiro de 1988, entardecer**
 
@@ -5886,8 +5886,8 @@ E não vai deixar nenhum de vocês sair antes de escutar a resposta.
 ---
 
 
-# CAPÍTULO 19
-## A ÚLTIMA ESCOLHA
+## CAPÍTULO 19
+### A ÚLTIMA ESCOLHA
 
 **15 de fevereiro de 1988, 02h17**
 
@@ -6044,8 +6044,8 @@ Era sobre quem ficaria pra contar a história depois.
 ---
 
 
-# CAPÍTULO 20
-## O QUE FICA
+## CAPÍTULO 20
+### O QUE FICA
 
 **15 de fevereiro de 1988, 02h17**
 
@@ -6206,8 +6206,8 @@ Do jeito que qualquer pessoa vai embora quando finalmente encontra a porta certa
 ---
 
 
-# CAPÍTULO 21
-## O REGISTRO
+## CAPÍTULO 21
+### O REGISTRO
 
 **Março de 1988**
 
