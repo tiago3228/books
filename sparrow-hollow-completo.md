@@ -283,6 +283,18 @@ Na vitrine da Hollow Video, cartazes de fitas VHS recém-chegadas disputavam esp
 
 — Cara. Cara. Chegou o filme do monstro do pântano.
 
+Marcus apontou, ao lado, para outra fita com uma capa branca e vermelha.
+
+— E esse é aquele dos caras presos no gelo.
+
+— Você já viu?
+
+— Só a capa.
+
+Cass pegou a fita e devolveu ao lugar.
+
+— Então continua só na capa.
+
 — Você já viu quatro vezes.
 
 — E vou ver a quinta.
@@ -1736,7 +1748,11 @@ Eu sei que foram dezenove porque a Cass contou. A Cass contava coisas. Era uma m
 
 — Como você sabe?
 
-— Vendedor carrega mala de amostra. Ele não carrega nada.
+— Vendedor carrega alguma coisa pra vender.
+
+— Ele pode vender alguma coisa que não cabe numa mala.
+
+— Então por que ele tá aqui há dezenove dias?
 
 — Ele pode ser vendedor de alguma coisa grande demais pra carregar.
 
@@ -1782,11 +1798,15 @@ Ele assentiu devagar, do jeito que os adultos assentem quando a resposta que voc
 
 — Por ano.
 
-— Bom — disse ele. — Isso é bom.
+— Bom — disse ele.
+
+Fez uma pausa curta.
+
+— Isso é bom.
 
 E foi isso. Ele pegou o troco, pegou o jornal, disse obrigado, e saiu.
 
-Eu não contei isso pros outros naquele dia. Não porque achasse importante. Porque não achei importante nenhum. Só contei umas três semanas depois, de passagem, e a Cass parou de andar no meio da calçada.
+Eu não contei isso pros outros naquele dia. Não porque achasse importante. Só contei umas três semanas depois, de passagem, e a Cass parou de andar no meio da calçada.
 
 — Ele perguntou se era encadernado?
 
@@ -1842,17 +1862,17 @@ A Cass foi quem reparou, porque a Cass reparava. Mas a coisa que ela trouxe não
 
 — Ninguém sabe quando ele foi embora — disse ela.
 
-— Como assim ninguém sabe?
+— Como assim?
 
-— Perguntei pra viúva Ferris. Ela disse que ele pagou a semana inteira adiantado, como sempre, e que numa manhã o quarto estava vazio.
+— Perguntei pra viúva Ferris. Ela disse que ele pagou a semana inteira adiantado e, numa manhã, o quarto estava vazio.
 
-— E daí? Ele foi de madrugada.
+— E daí? Foi embora de madrugada.
 
-— Denny, é uma cidade de três mil pessoas. — Ela ficou parada na minha frente, e aquilo me irritou mais do que o assunto. — Um carro que ninguém conhece fica dezenove dias estacionado na Maple Street e vai embora sem uma única pessoa ver.
+— Denny, é uma cidade de três mil pessoas. — Ela me encarou. — Um carro fica dezenove dias na Maple Street e some sem ninguém ver.
 
 — Então ninguém viu.
 
-— Então ninguém viu — repetiu ela, e parecia que ia falar mais alguma coisa, e não falou.
+— É. — Ela fez uma pausa. — Esse é o problema.
 
 Marcus tentou salvar a tarde do jeito que ele sempre tentava.
 
@@ -1982,13 +2002,13 @@ Nós dois ficamos ali na escada por um tempo, ouvindo os grilos, o tipo de silê
 
 — Você quer ir mesmo? — perguntei.
 
-Sam pensou na resposta com aquele cuidado de sempre.
+Sam pensou por um tempo.
 
 — Não.
 
-— Então por que a gente vai?
+— Então por que vai?
 
-— Porque o Marcus quer. — Ele deu de ombros. — E porque se a gente não for agora com permissão, o Marcus vai sozinho em setembro sem.
+— Porque o Marcus vai querer ir de qualquer jeito. — Ele deu de ombros. — Melhor com a gente do que sozinho.
 
 Ele tinha razão. Ele sempre tinha razão sobre o Marcus, e o Marcus nunca soube disso.
 
@@ -2016,9 +2036,9 @@ O trajeto até a clareira, que a pé levava pouco mais de meia hora, se esticou 
 
 — Isso não é emergência, Marcus. Isso é sede antecipada.
 
-— Existe uma diferença importante entre "querer" refrigerante e "precisar" de refrigerante, Cass, e eu não espero que você entenda essa diferença.
+— Existe uma diferença entre querer refrigerante e precisar de refrigerante.
 
-— Eu entendo perfeitamente essa diferença. A diferença é que eu não carrego oito latas de peso morto.
+— A diferença é que eu não carrego oito latas de peso morto.
 
 — Elas não são peso morto. Elas são hidratação futura.
 
@@ -2066,6 +2086,8 @@ Ela falou aquilo do mesmo jeito que falava tudo sobre a própria casa — rápid
 
 — Eu quis dizer que é impressionante.
 
+— Eu sei.
+
 — Eu sei o que você quis dizer.
 
 Ela sorriu, olhando pro fogo, e eu me lembro de pensar, naquele momento exato, que aquele verão inteiro tinha sido feito de coisas assim — pequenas, sem importância nenhuma, que eu só ia entender que importavam décadas depois, quando já não tivesse mais nenhuma delas pra colecionar de novo.
@@ -2076,7 +2098,7 @@ Sam desenhava a fogueira. Não a nós quatro em volta dela — a fogueira sozinh
 
 — Por quê?
 
-— Porque gente muda de cara quando descobre que alguém tá olhando. Fogo não.
+— Porque gente muda de cara quando percebe que alguém tá olhando. Fogo não.
 
 Foi a coisa mais Sam que ele já tinha dito, e eu ainda penso nela de vez em quando, décadas depois, entrevistando gente pro jornal, percebendo exatamente o momento em que o rosto de alguém muda porque descobriu que está sendo observado.
 
@@ -2110,15 +2132,23 @@ Foi só bem mais tarde, olhando pra trás com o peso de tudo que veio depois, qu
 
 A noite caiu rápido, do jeito que só cai no meio da floresta, e por algumas horas Sparrow Hollow inteira poderia muito bem não existir — só nós quatro, a fogueira, as histórias de fantasma que Marcus insistia em contar mal e sempre errando os detalhes principais, o som distante de corujas e grilos que compunha o único tipo de silêncio que floresta nenhuma sabe fazer de verdade.
 
-— E aí o cara vira e o rosto dele não tem rosto — narrava Marcus, a lanterna debaixo do queixo pra dar efeito. — Só tem outro rosto por dentro.
+— E aí o cara vira e o rosto dele não tem rosto — narrava Marcus, a lanterna debaixo do queixo. — Só tem outro rosto por dentro.
 
 — Isso não faz sentido — disse Cass.
 
-— Faz sentido no filme.
+— No filme fazia.
 
-— A gente não tá num filme.
+— Que filme?
 
-— Eu sei que a gente não tá num filme, Cass, é uma história de fogueira, deixa eu terminar.
+Marcus pensou.
+
+— Um daqueles que você não devia assistir sozinha.
+
+— Ótimo. Muito tranquilizador.
+
+Ele sorriu.
+
+— Ainda nem cheguei na parte ruim.
 
 Ela deixou, mas revirou os olhos com tanta força que eu achei que ela ia machucar alguma coisa.
 
@@ -2152,9 +2182,9 @@ O silêncio que se seguiu foi pior do que o próprio som.
 
 Marcus foi o primeiro a falar de novo, e a voz dele saiu num tom que eu nunca tinha ouvido nele antes — não medo exatamente, mas alguma coisa mais fina, mais cuidadosa.
 
-— Vocês acham que isso é a mesma coisa que fez o barulho que os pardais tavam olhando?
+— Vocês acham que isso é a mesma coisa que os pardais estavam olhando?
 
-Ninguém respondeu. Ninguém precisou.
+Ninguém respondeu.
 
 ---
 
@@ -2208,9 +2238,9 @@ Foi durante essa vigília que Cass falou uma coisa que eu não esperava.
 
 — Minha mãe não ia deixar eu vir se soubesse metade do que a gente já viu esse verão.
 
-— Ela não soube de nada disso.
+— Ela não soube.
 
-— Eu sei. — Cass estava abraçada aos próprios joelhos, o rosto laranja pela luz fraca da lanterna. — É só que. Se acontecer alguma coisa comigo aqui, ela vai passar o resto da vida achando que devia ter perguntado mais.
+— Eu sei. — Cass abraçou os joelhos. — Se acontecer alguma coisa comigo aqui, ela vai passar o resto da vida achando que devia ter perguntado mais.
 
 — Não vai acontecer nada com você.
 
@@ -2224,7 +2254,7 @@ Marcus, do outro lado do círculo, ficou olhando pra ela por um tempo comprido.
 
 — Isso é uma promessa idiota — disse Cass, mas a voz dela tremeu um pouco.
 
-— É a única que eu sei fazer direito.
+— É a única que eu sei fazer.
 
 Ninguém riu daquilo. Foi a primeira vez, naquele verão, que uma piada do Marcus não teve piada nenhuma dentro, e todos nós sentimos o peso do que ele tinha acabado de dizer sem entender ainda por que precisávamos senti-lo.
 
@@ -2488,11 +2518,11 @@ Era, sem dúvida, a coisa mais sensata que qualquer um de nós tinha dito em doi
 
 E, mesmo assim, nenhum de nós se moveu para arrumar as mochilas.
 
-— Meu pai só volta amanhã cedo — disse Sam. — A gente ia ter que fazer o caminho todo sozinho.
+— Meu pai só volta amanhã cedo — disse Sam. — A gente teria que fazer o caminho sozinho.
 
 — A gente sabe o caminho.
 
-— Eu sei que a gente sabe o caminho, Cass. — Ele olhou pra floresta ao redor, já ganhando aquele tom cinza que chega antes do escuro de verdade. — É a hora que eu não gosto.
+— Eu sei. — Ele olhou pra floresta, já ganhando o cinza que vinha antes da noite. — É a hora que eu não gosto.
 
 Ninguém discordou disso.
 
@@ -2533,7 +2563,11 @@ Não era pergunta.
 
 — Isso é só um sonho, Marcus.
 
-— Eu sei. — Ele finalmente me olhou. — Mas eu não contei pro meu pai. Não contei pra minha mãe. Não contei nem pra Cass, e eu conto tudo pra Cass antes de contar pra você, você sabe disso.
+— Eu sei. — Ele finalmente me olhou. — Mas eu não contei pro meu pai. Nem pra minha mãe. Nem pra Cass.
+
+— Você conta tudo pra Cass.
+
+— Exatamente. Por isso eu não contei.
 
 Aquilo doeu um pouco, e ele percebeu, e sorriu pela primeira vez naquela tarde inteira, do jeito sincero que era só dele.
 
