@@ -59,7 +59,7 @@ O primeiro dia de verão de verdade em Sparrow Hollow não é marcado no calend�
 
 Naquele ano, esse dia caiu numa quinta-feira — o último dia de aula, na verdade, que a Sra. Alcott, nossa professora havia três anos seguidos, insistia em encerrar sempre com o mesmo ritual: os alunos amontoados na porta da sala, ela lendo em voz alta, sem nenhuma variação de um ano pro outro, o mesmo poema curto sobre o verão que ninguém prestava atenção de verdade, todo mundo olhando pra janela contando os segundos.
 
-— Divirtam-se — dissera ela, fechando o livro. — E não façam nada que eu tenha que ouvir falar em setembro.
+— Divirtam-se — dissera ela, fechando o livro. — E, por favor, não façam nada que me obrigue a ouvir falar de vocês em setembro.
 
 Ninguém prometeu nada. Era o tipo de instrução que todo adulto de Sparrow Hollow dava, todo ano, sabendo perfeitamente que não seria cumprida.
 
@@ -71,13 +71,19 @@ Não foi.
 
 Minha mãe já estava na cozinha quando desci, o rádio sintonizado numa estação de notícias que ela nunca escutava de verdade, só deixava ligada pro silêncio da casa não parecer tão grande quanto era desde que meu pai tinha ido trabalhar na fábrica em Portland durante a semana, voltando só nos fins de semana.
 
-— Vai pra onde hoje? — perguntou, sem tirar os olhos da torrada que vigiava como se ela pudesse fugir.
+— Vai pra onde hoje? — perguntou, sem tirar os olhos da torrada.
 
 — Por aí. Com o Marcus, a Cass e o Sam.
 
 — "Por aí" tem hora de voltar?
 
-— Antes do jantar. Prometo.
+— Antes do jantar.
+
+Ela levantou os olhos.
+
+— Promete?
+
+— Prometo.
 
 Ela me olhou por cima do ombro, aquele tipo de olhar que só mães sabem fazer, que consegue ser afetuoso e cético ao mesmo tempo.
 
@@ -85,17 +91,25 @@ Ela me olhou por cima do ombro, aquele tipo de olhar que só mães sabem fazer, 
 
 — Mãe, são dez da manhã.
 
-— Leva assim mesmo.
+— E à noite continua sendo dez da manhã?
+
+— Não.
+
+— Então leva.
 
 Levei. Não usei. Mas levei, amarrado na cesta da bicicleta, porque discutir com minha mãe sobre casaco era uma batalha que eu tinha aprendido, havia anos, que ninguém vencia.
 
 Na porta, ela disse mais uma coisa, sem levantar a voz, do jeito que dizia as coisas que não queria que parecessem importantes.
 
-— Se vocês forem pro lago, fiquem do lado do píer.
+— Se forem pro lago, fiquem do lado do píer.
 
 — A gente sempre fica do lado do píer.
 
-— Eu sei. Só estou dizendo.
+— Eu sei.
+
+Ela pegou a torrada.
+
+— Só estou dizendo.
 
 Ela não disse *não vão pro oeste*. Ninguém dizia. Mas metade das frases que os adultos de Sparrow Hollow diziam às crianças era uma frase sobre o oeste com outra roupa, e a gente crescia entendendo isso do mesmo jeito que entende a diferença entre um trovão perto e um trovão longe: sem nunca ter aprendido, sem nunca ter perguntado.
 
@@ -111,9 +125,15 @@ Desci a Maple Street pedalando com tudo, o vento levantando poeira do asfalto ra
 
 — Vocês dois demoram mais que minha avó pra sair de casa — disse ela, já acelerando na frente.
 
-— Sua avó nem tem bicicleta, Cass — respondeu Marcus, ofegante, tentando alcançá-la.
+— Sua avó nem tem bicicleta, Cass.
 
-— Exatamente. E ainda assim ela seria mais rápida que vocês dois hoje de manhã.
+— Exatamente.
+
+Marcus acelerou.
+
+— Isso não faz sentido.
+
+— Nunca disse que precisava fazer.
 
 Cassidy Doyle nunca esperava ninguém. Isso não era falta de educação. Era só que, desde os sete anos, quando o pai dela foi embora e a mãe passou a trabalhar dois turnos na fábrica de papel, Cass tinha aprendido que esperar os outros geralmente significava ficar para trás.
 
@@ -121,9 +141,11 @@ Cassidy Doyle nunca esperava ninguém. Isso não era falta de educação. Era s�
 
 — Torrada.
 
-— Só isso?
+— Só?
 
 — Foi o que tinha.
+
+Não perguntei mais.
 
 Ela disse isso do mesmo jeito que dizia praticamente tudo relacionado à própria casa — rápido, sem drama, fechando a porta do assunto antes que alguém pudesse tentar abrir de novo. Eu já tinha aprendido, fazia anos, a não insistir quando a porta fechava daquele jeito.
 
@@ -133,11 +155,17 @@ Ele acelerou até emparelhar comigo, e enquanto Cass abria distância na frente,
 
 — Pra quê isso?
 
-— Segura aí. — Ele nem olhou pra mim. — Daqui a pouco você oferece.
+— Segura.
+
+— Por quê?
+
+— Daqui a pouco você oferece.
 
 — Por que eu?
 
-— Porque se eu oferecer ela não pega.
+Marcus deu de ombros.
+
+— Porque de mim ela não aceita.
 
 Eu não entendi na hora. Achei que fosse alguma implicância boba entre os dois. Levei uns bons quinze anos e um punhado de amigos adultos com problemas de dinheiro pra entender que o Marcus, aos treze anos, já tinha descoberto sozinho uma coisa que muita gente crescida nunca descobre: que existe um jeito de ajudar alguém que deixa a pessoa menor, e existe outro jeito, e o segundo dá mais trabalho.
 
@@ -151,17 +179,21 @@ Sam Reyes sentava sempre na ponta do píer, os pés balançando sobre a água, u
 
 — O que você tá desenhando? — perguntou Cass, se aproximando por trás dele.
 
-Sam fechou o caderno rápido demais para ser casual.
+Sam fechou o caderno.
 
 — Nada.
 
 — Não parecia nada.
 
-— É só um pássaro.
+— É um pássaro.
 
 — Deixa eu ver.
 
 — Não.
+
+Cass levantou as mãos.
+
+— Tudo bem. Eu sobrevivo.
 
 Cass revirou os olhos, mas não insistiu — outra regra não escrita entre nós quatro, tão antiga quanto qualquer uma: ninguém obrigava o Sam a mostrar nada antes de ele estar pronto.
 
@@ -171,11 +203,21 @@ Marcus se jogou na grama ao lado da bicicleta, braços abertos, encarando o céu
 
 — Noventa e dois dias de quê?
 
-— De verão. Contei ontem à noite. Se a gente contar até o primeiro dia de aula de setembro, dá noventa e dois. — Ele virou a cabeça na minha direção. — Sabe quanto tempo é isso?
+— Verão.
+
+— Você contou?
+
+— Ontem à noite.
+
+Olhei para ele.
 
 — Noventa e dois dias?
 
-— É uma vida inteira, Denny. — Ele voltou a olhar pro céu com uma seriedade absoluta. — Gente já fez guerra em menos tempo.
+— Uma vida inteira, Denny.
+
+Ele voltou a olhar pro céu.
+
+— Gente já fez guerra em menos tempo.
 
 — Gente já fez guerra em menos tempo — repetiu Cass, sem nenhuma entonação.
 
@@ -239,31 +281,51 @@ A Sparrow Arcade ficava entre a lanchonete da dona Ruth e a Hollow Video, na ún
 
 Na vitrine da Hollow Video, cartazes de fitas VHS recém-chegadas disputavam espaço uns com os outros. Marcus parou a bicicleta bruscamente diante de um deles, os olhos arregalados.
 
-— Cara. CARA. Chegou o filme do monstro do pântano.
+— Cara. Cara. Chegou o filme do monstro do pântano.
 
-— Você já viu esse filme quatro vezes — falei.
+— Você já viu quatro vezes.
 
 — E vou ver a quinta.
 
-— Como você ainda tem medo desse filme na quinta vez? — perguntou Cass, encostando a bicicleta na parede.
+Cass encostou a bicicleta na parede.
 
-— Eu não tenho medo. Eu aprecio o trabalho artesanal da fantasia.
+— Você ainda tem medo desse filme?
 
-— Você dormiu de luz acesa depois da segunda vez que viu.
+— Eu não tenho medo.
+
+— Dormiu de luz acesa depois da segunda.
+
+Marcus apontou para o cartaz.
 
 — Isso é irrelevante pro argumento.
 
 Marcus colecionava revistas de monstros do jeito que outros garotos colecionavam cartas de beisebol — pilhas inteiras debaixo da cama, cada uma com as bordas já gastas de tanto folhear. Ele conhecia o nome de todo ator que já tinha vestido uma fantasia de borracha em qualquer filme de terror B dos últimos vinte anos, e guardava esse conhecimento com o mesmo orgulho que outro garoto guardaria um recorde esportivo.
 
-— Um dia — falou Cass — essa sua obsessão com monstro vai te dar um troço.
+— Um dia essa sua obsessão com monstro vai te dar um troço — disse Cass.
 
-— Um dia — respondeu Marcus, sem nem se abalar — vocês vão precisar de mim pra saber o que fazer quando encontrarem um de verdade.
+— Um dia vocês vão precisar de mim.
 
-— E o que a gente faria? — perguntou Sam, um tom de brincadeira genuína na voz, do tipo que ele raramente usava.
+Sam ergueu os olhos.
 
-Marcus pensou por um segundo inteiro, sério demais para a pergunta, antes de responder.
+— Pra quê?
 
-— Correr. Mas de um jeito específico. Sempre em zigue-zague. A maioria dos monstros de filme não consegue virar rápido.
+Marcus pensou.
+
+— Quando encontrarem um de verdade.
+
+Cass riu.
+
+— E o que a gente faz?
+
+— Corre.
+
+— Só isso?
+
+— Em zigue-zague.
+
+— Por quê?
+
+— Monstro de filme não sabe virar direito.
 
 — Isso é a coisa mais idiota que eu já ouvi — disse Cass, mas estava sorrindo quando disse.
 
@@ -285,15 +347,17 @@ A máquina nova ficava no fundo, ainda com um adesivo de "RECÉM-CHEGADO" grudad
 
 — Caça-Fantasmas — li em voz alta. — Sério?
 
-— É baseado no filme — disse Marcus, já enfiando a mão no bolso atrás de moedas. — Falei que ia ser incrível.
+— Baseado no filme.
 
-— Aposto que eu bato seu recorde primeiro — desafiou Cass, empurrando ele de leve pra assumir o controle.
+Marcus já procurava moedas no bolso.
 
-— Você nunca bateu meu recorde em nenhuma máquina dessa arcade.
+— Aposto que eu bato seu recorde primeiro — disse Cass.
 
-— Existe sempre uma primeira vez.
+— Você nunca bateu meu recorde.
 
-— Vinte e cinco centavos que eu consigo.
+— Existe uma primeira vez.
+
+— Vinte e cinco centavos.
 
 — Fechado.
 
@@ -323,25 +387,45 @@ As moedas acabaram quando o sol começou a baixar, pintando o estacionamento de 
 
 Foi Sam quem primeiro reparou.
 
-— Ei. Olhem isso.
+— Ei.
 
-Ele estava parado perto da porta, olhando para cima, para os fios elétricos que cruzavam o estacionamento entre dois postes de madeira.
+Sam estava parado perto da porta, olhando para cima, para os fios elétricos.
+
+— Olhem isso.
 
 Pardais.
 
 Dezenas deles, pousados em fileira ao longo do fio, todos absolutamente imóveis, todos olhando na mesma direção — para o oeste, para além da cidade, para onde as árvores começavam a ficar mais altas e mais densas antes de dar lugar às antigas pedreiras abandonadas.
 
-— É só um bando de pássaro, Sam — falei.
+— É só um bando de pássaros, Sam.
 
-— Eu sei o que é um bando de pássaro, Denny.
+— Eu sei o que é um bando de pássaros.
 
 Ele não desviou os olhos.
 
-— Isso não é um bando de pássaro. É um bando de pássaro olhando pra alguma coisa.
+— Então olha direito.
 
-— Talvez tenha uma cobra ou algo assim perto da árvore — sugeriu Marcus, sem muita convicção.
+Fiquei olhando.
 
-— Pássaros não ficam parados desse jeito por causa de cobra — respondeu Sam. — Eles voam embora, ou ficam agitados. Isso aí não tá agitado. Tá... esperando.
+— Tá. Eles estão olhando pra alguma coisa.
+
+— Talvez tenha uma cobra.
+
+— Pássaros não ficam assim por causa de cobra.
+
+Marcus olhou de novo.
+
+— Então por quê?
+
+Sam demorou a responder.
+
+— Não sei.
+
+— Ótimo.
+
+Cass cruzou os braços.
+
+— Agora você deixou a gente com isso.
 
 Cass revirou os olhos, mas seguiu o olhar de Sam mesmo assim. Todos nós seguimos.
 
