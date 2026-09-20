@@ -518,7 +518,7 @@ Ela se aproximou, olhando com mais atenção do que eu esperava, e por um instan
 
 — A senhora não lembra o nome de alguém que conhecia?
 
-— Aos vezes é assim, querido. — Ela voltou pro balcão, a voz recuperando o tom normal rápido demais. — A gente lembra o rosto e esquece o resto. Acontece com todo mundo que fica velho o suficiente.
+— Às vezes é assim, querido. — Ela voltou pro balcão, e a voz recuperou o tom normal rápido demais. — A gente lembra o rosto e esquece o resto. Acontece com todo mundo que fica velho o suficiente.
 
 Não pareceu estranho na hora. Parecia só o tipo de coisa que os adultos diziam sobre memória e idade, um comentário qualquer que a gente esquece assim que a panqueca chega.
 
@@ -648,7 +648,6 @@ Foi uma pergunta idiota, do tipo que se faz aos treze anos achando que é sofist
 
 Cass me olhou como quem olha pra alguém que acabou de perguntar por que alguém gosta do próprio braço.
 — Eu gosto daqui, Denny.
-
 — Aqui não tem nada.
 
 — Tem tudo que eu conheço. — Ela empurrou a porta. — Você é que acha que "nada" e "pouco" são a mesma coisa.
@@ -700,11 +699,11 @@ Fica a pouco mais de três quilômetros do centro, seguindo a Old Quarry Road at
 
 O que ninguém explicava direito era o motivo do fechamento.
 
-— Minha avó diz que foi um desabamento — contou Cass, os quatro sentados na varanda da casa dela descascando favas para o jantar da mãe dela, o único jeito que tínhamos de ganhar entrada garantida pro jantar quando sobrava comida. — Um bocado de gente morreu.
+— Minha avó diz que foi um desabamento — contou Cass, os quatro sentados na varanda da casa dela descascando favas para o jantar. — Um bocado de gente morreu.
 
-— Minha mãe diz que foi contaminação de água — falei. — Que a água do poço da pedreira ficou envenenada.
+— Minha mãe diz que foi contaminação de água — falei. — O poço da pedreira teria ficado envenenado.
 
-— As duas histórias não podem ser verdade — observou Sam, sem erguer os olhos do caderno.
+— As duas não podem ser verdade — observou Sam, sem erguer os olhos do caderno.
 
 — Ou podem — disse Marcus, a boca cheia de fava crua que ele definitivamente não devia estar comendo. — Talvez tenha desabado por causa da água.
 
@@ -738,7 +737,7 @@ A avó da Cass, que morava com eles desde que o pai dela tinha ido embora, apare
 
 — A senhora ouviu?
 
-— Ouço tudo, querida. Só não tenho mais idade pra fingir que não ouço.
+— Ouço tudo, querida. Só não tenho mais idade pra fingir que não.
 
 Ela se sentou numa cadeira de balanço na varanda, o pano de prato ainda nas mãos, e ficou olhando pra rua por um tempo antes de continuar.
 
@@ -754,7 +753,7 @@ Ela demorou pra responder, o balanço da cadeira criando um ritmo lento contra a
 
 — E depois? — sussurrou Sam.
 
-— Depois, ninguém falou sobre isso. — A avó de Cass balançou a cabeça devagar. — No dia seguinte, já tinha versão pra tudo. Desabamento. Contaminação. Escolham a que preferirem, todo mundo dizia, com a boca pequena, olhando pro chão. E eu me lembro de pensar, com nove anos de idade, que era estranho um bocado de gente adulta escolher mentir a mesma mentira sem nunca ter combinado antes.
+— Depois, ninguém falou sobre isso. — A avó de Cass balançou a cabeça devagar. — No dia seguinte, já tinha versão pra tudo. Desabamento. Contaminação. Cada um dizia uma coisa, sempre olhando pro chão. E eu me lembro de pensar, com nove anos, que era estranho tanta gente adulta contar a mesma mentira sem nunca ter combinado antes.
 
 Ela se levantou, o pano de prato voltando aos ombros, encerrando a conversa do mesmo jeito repentino como tinha começado.
 
@@ -790,7 +789,7 @@ Ele não olhou.
 
 Enquanto respondeu, ficou olhando pro rádio em cima da mesinha. Não pra mim, não pro Marcus, não pra estrada. Pro rádio. Do jeito que a gente olha pra uma coisa que está fazendo barulho suficiente pra servir de desculpa.
 
-— 1949 foi um ano ruim pra cidades pequenas nessa parte do estado — falou, finalmente, a voz baixa. — Não só aqui. Ouvi dizer que teve problema parecido lá pros lados do Maine também, numa cidadezinha cujo nome não lembro mais. Coisa que ninguém nunca explicou direito.
+— 1949 foi um ano ruim pra cidade — falou, finalmente. — Não só aqui. Ouvi dizer que teve problema parecido pros lados do Maine. Uma cidadezinha cujo nome eu não lembro mais.
 
 Um arrepio subiu pela minha nuca.
 
@@ -798,7 +797,7 @@ Um arrepio subiu pela minha nuca.
 
 O Sr. Webb olhou para cada um de nós, um de cada vez, como se estivesse decidindo quanto valia a pena contar para quatro crianças de treze anos.
 
-— O tipo de problema que a gente aprende a não desenterrar.
+— O tipo que a gente aprende a não desenterrar.
 
 — O senhor morava aqui em 1949? — perguntou Sam.
 
@@ -820,11 +819,13 @@ A porta de tela bateu atrás dele.
 
 Marcus ficou olhando pra porta.
 
-— Ele nunca fala assim — disse, baixinho.
+— Ele nunca fala assim — disse Marcus, baixinho.
 
 — Assim como?
 
-— Assim. — Marcus procurou a palavra e não achou nenhuma boa, então usou a que tinha. — Ele nunca fala como adulto.
+Marcus pensou um pouco.
+
+— Como se soubesse alguma coisa que a gente não sabe.
 
 ---
 
@@ -876,6 +877,8 @@ Cass descascava batatas ao lado dele com uma eficiência que fazia o trabalho do
 — Você é rápida nisso, Cass.
 
 — Ajudo minha avó com tudo em casa.
+
+— Dá pra ver.
 
 — Eu sei. — A Sra. Webb pousou a mão no ombro dela por um segundo, um gesto pequeno, quase de passagem. — Você sabe que pode vir aqui quando quiser, não sabe? Não só quando o Marcus te chama.
 
@@ -1297,7 +1300,6 @@ Ficaram bravos um com o outro por quase um dia inteiro — um recorde, pros padr
 
 — Ainda tá torto — observou Sam, examinando o reparo.
 — Tá menos torto.
-
 — Isso não é a mesma coisa que consertado.
 
 — É consertado o suficiente pra andar em linha reta na maior parte do tempo.
@@ -1947,7 +1949,6 @@ Sam ficou quieto um tempo.
 
 — Contando o quê?
 — Eu não sei. — Ele olhou pra mim. — Ele não tava fazendo nada. Só tava olhando. E quando entrou, ele trancou a porta dos fundos com a chave, e a gente nunca tranca a porta dos fundos com a chave.
-
 Nós dois ficamos ali na escada por um tempo, ouvindo os grilos, o tipo de silêncio confortável que só existe entre duas pessoas que se conhecem desde antes de saberem que se conheciam.
 
 — Você quer ir mesmo? — perguntei.
@@ -2598,7 +2599,6 @@ Marcus se aproximou o suficiente pra tentar ler, o pescoço esticado.
 — Não dá pra ver direito. Tá gasto.
 
 — Deixa assim — falei, puxando o braço dele de volta. — A gente não precisa ler.
-
 Ele deixou. Mas eu vi, no rosto dele, à luz da lanterna, que uma parte dele já tinha decidido que precisava saber, e que essa parte ia continuar ali, esperando uma segunda chance.
 
 ---
@@ -3247,7 +3247,6 @@ Foi Sam quem sugeriu, pela primeira vez, a ideia que nenhum de nós tinha corage
 — E se ele ainda estiver lá dentro? O Marcus de verdade, eu digo. Preso, tipo, atrás disso tudo.
 
 — Do que você tá falando?
-
 — Naquela noite, quando ele desceu — Sam parou, respirando fundo antes de continuar — você viu, Denny. Você mesmo disse que viu. Por um segundo, o rosto dele rachou, e o Marcus de verdade gritou por ajuda antes de aquilo se fechar de novo.
 
 Eu tinha visto. Repetia aquele momento na minha cabeça todas as noites antes de dormir, sem conseguir decidir se era esperança ou tortura lembrar.
@@ -3897,7 +3896,6 @@ Encontrei uma matéria antiga, de anos atrás, assinada por outro jornalista, de
 Fiquei olhando pra tela por um tempo comprido, o coração batendo de um jeito que eu não sentia desde os treze anos.
 
 Não escrevi pra ele. Não sei, até hoje, se ele ainda está vivo, ou onde está, ou se lembraria de mim se eu aparecesse na porta dele com essa história inteira debaixo do braço.
-
 Só fechei o computador, e fui dormir, e não dormi bem.
 
 ---
