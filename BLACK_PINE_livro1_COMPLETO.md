@@ -422,6 +422,8 @@ Um carteiro jogava correspondências dentro de caixas de madeira.
 
 Dois adolescentes saíram de uma loja carregando fitas VHS.
 
+Na vitrine, entre os cartazes, reconheci *O Enigma de Outro Mundo*, um filme de monstro que eu tinha visto anos antes.
+
 Na fachada de um prédio:
 
 **BLACK PINE VIDEO**
@@ -6274,6 +6276,8 @@ Depois uma de 1931.
 Depois uma de 1908.
 
 Cada uma continha, entre recortes de jornal e registros da prefeitura, ao menos uma menção a um visitante — sempre um homem, sempre de fora, sempre atraído à cidade por algum motivo que ele próprio não sabia explicar direito depois.
+
+Em uma caixa de 1949, entre dois recortes quase ilegíveis, encontrei uma menção curta a uma cidade chamada Sparrow Hollow. Pedreira. Crianças. Um incidente encerrado rápido demais. Nada que, sozinho, explicasse por que aquele nome me pareceu familiar.
 
 E, ao lado de cada menção, presa por um clipe enferrujado havia décadas, uma fotografia.
 
