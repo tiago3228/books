@@ -149,7 +149,11 @@ Ele riu, aquele riso largo e sem cerimônia que eu conhecia desde os oito anos d
 
 Entrei. O celeiro por dentro era maior do que parecia de fora, o teto alto o suficiente pra abrigar uma estrutura de madeira que provavelmente já tinha guardado feno de verdade, décadas atrás, antes de virar o que quer que a Dra. Voss tivesse transformado aquilo depois. Prateleiras de metal corriam ao longo das paredes, cheias de caixas etiquetadas numa letra pequena e apertada, e no centro do espaço, coberto por uma lona empoeirada que Caleb já tinha puxado pela metade, havia algo do tamanho de um piano de cauda pequeno, todo em metal escurecido, com um painel de controles que parecia ter saído direto de um filme de ficção científica de orçamento baixo demais pros efeitos especiais convencerem.
 
+![Máquina industrial esquecida no celeiro](imagens/threshold/Máquina Industrial Esquecida no Celeiro.png)
+
 Numa das prateleiras mais baixas, entre um maço de cadernos de campo e um frasco de parafusos enferrujados, alguma coisa pequena e prateada rolou de leve quando esbarrei de raspão na estante — uma moeda, ou algo do tamanho de uma moeda, opaca demais pra brilhar direito sob a luz fraca que entrava pelas frestas do telhado. Nem parei pra olhar direito. Só empurrei de volta pro lugar com a ponta do dedo, sem pensar duas vezes, e segui o Caleb até o centro do celeiro.
+
+![Moeda do pinheiro no laboratório esquecido](imagens/threshold/Moeda do Pinheiro no Laboratório Esquecido.png)
 
 — O que é isso?
 
@@ -670,6 +674,8 @@ O silêncio que se seguiu foi absoluto, quebrado só pelo tique-taque de um rel�
 ### Julho de 1973, madrugada (continuação)
 
 A caixa de metal continha, entre outras coisas, um mapa desenhado à mão da estrutura do celeiro, marcado com anotações antigas em tinta já desbotada, uma pasta fina com "Registro nº 217" datilografado na lombada — que ela nem tocou, empurrando pro fundo da caixa sem comentário, como quem afasta algo sem querer olhar de novo — e um único frasco de vidro grosso, chumbado, contendo um líquido espesso e escuro que parecia absorver a luz da sala em vez de refletir.
+
+![Arquivo de investigação do Programa Limiar](imagens/threshold/Arquivo de Investigação Programa Limiar.png)
 
 — O que é isso? — perguntou Caleb, se inclinando pra olhar mais de perto.
 
@@ -1820,6 +1826,8 @@ Sobrevivência.
 Sublinhada duas vezes.
 
 E, no consultório vazio, décadas depois, com a porta trancada e ninguém além de mim mesma pra ouvir, ainda me pego, de vez em quando, virando uma moeda de prata entre os dedos, sentindo o peso pequeno e frio dela na palma da mão, sem nunca ter certeza — nem um pouco de certeza — se estou guardando aquilo, ou se aquilo, de algum jeito que eu nunca vou conseguir nomear direito, está me guardando.
+
+![Moeda 217 sobre a mesa envelhecida](imagens/threshold/Moeda 217 sobre a mesa envelhecida.png)
 
 
 ---

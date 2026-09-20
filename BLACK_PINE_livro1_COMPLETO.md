@@ -123,6 +123,8 @@ Era alguma coisa muito pior.
 
 **O tempo daquela casa não estava passando.**
 
+![Relógio antigo parado em 02h17](imagens/black-pine/Relógio Antigo em Casa Sombria.png)
+
 Três batidas soaram na porta.
 
 *Toc.*
@@ -735,6 +737,8 @@ Antes de sair, deixou alguma coisa sobre minha mesa.
 Uma moeda.
 
 Prata.
+
+![Moeda antiga de prata sobre madeira desgastada](imagens/black-pine/Moedas antigas sobre madeira desgastada.png)
 
 Pesada.
 
@@ -1439,6 +1443,8 @@ Quase invisível.
 
 **217.**
 
+![Fotografia antiga, moeda e a marca 217](imagens/black-pine/Fotografia Antiga, Moeda e Memórias.png)
+
 Meu sorriso desapareceu.
 
 Abri o caderno.
@@ -1963,6 +1969,8 @@ Vidros quebrados.
 Um relógio redondo na fachada.
 
 Parecia uma estação que tinha simplesmente esquecido de morrer.
+
+![Estação Black Pine na névoa](imagens/black-pine/Estação Black Pine na Névoa.png)
 
 Olhei para o relógio.
 
