@@ -6033,7 +6033,7 @@ O vidro da janela rachou atrás dela sem que ninguém o tivesse tocado.
 
 Uma única linha fina, silenciosa, avançando devagar como se algo, do outro lado da neve, estivesse simplesmente esperando pra ver o que eu faria a seguir.
 
-E foi ali, com o dedo tenso sobre o gatilho e trinta e cinco anos de vida resumidos àquele único segundo impossível de desfazer, que finalmente entendi a verdadeira pergunta que Black Pine vinha me fazendo desde o dia em que atravessara aquela placa de madeira na estrada.
+E foi ali, com o dedo tenso sobre o gatilho e trinta e seis anos de vida resumidos àquele único segundo impossível de desfazer, que finalmente entendi a verdadeira pergunta que Black Pine vinha me fazendo desde o dia em que atravessara aquela placa de madeira na estrada.
 
 Não era sobre quem morreria.
 
@@ -6373,11 +6373,3 @@ Em outubro de 1987, o jornalista Ethan Cole chega a Black Pine, uma cidade peque
 "Toda cidade enterra seus mortos. Black Pine enterra seus segredos."
 
 Ele veio para escrever uma matéria. Ficou para tentar entender por que ninguém na cidade consegue falar sobre a floresta chamada Black Cedar sem baixar a voz — nem sobre o trem que ainda apita em trilhos abandonados há décadas, nem sobre as moedas de prata que aparecem, sem explicação nenhuma, no bolso de quem a cidade escolheu.
-
-Ao lado de Emily Carter — a única pessoa disposta a guiá-lo pela verdade, mesmo sabendo exatamente o preço disso — Ethan vai descobrir que Black Pine guarda uma contagem que ninguém teve coragem de terminar. E que, quando ela finalmente chegar ao fim, alguém vai precisar escolher entre partir da cidade... ou ficar para sempre.
-
-Uma investigação que atravessa quatro estações, décadas de silêncio e uma única pergunta que a cidade inteira evita responder: o que realmente aconteceu na noite em que o Último Passageiro subiu no trem — e nunca mais desceu?
-
-*Black Pine é um suspense psicológico sobre memória, culpa e o preço de descobrir a verdade numa cidade pequena demais para guardar segredos grandes demais.*
-
----
