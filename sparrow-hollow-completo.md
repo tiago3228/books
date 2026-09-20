@@ -1,6 +1,13 @@
 # SPARROW HOLLOW
-### Livro 2 — universo de Black Pine
+### Livro 2 — Trilogia Black Pine
 **Tiago Cardoso**
+
+**Trilogia Black Pine:**  
+Livro 1 — *Black Pine*  
+Livro 2 — *Sparrow Hollow*  
+Livro 3 — *Threshold*
+
+*Os três livros são independentes e podem ser lidos em qualquer ordem.*
 
 ---
 
