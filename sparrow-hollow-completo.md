@@ -647,8 +647,7 @@ Cass parou na porta e ficou olhando o quadro-negro atrás do balcão por um temp
 Foi uma pergunta idiota, do tipo que se faz aos treze anos achando que é sofisticada.
 
 Cass me olhou como quem olha pra alguém que acabou de perguntar por que alguém gosta do próprio braço.
-— Eu gosto daqui, Denny.
-— Aqui não tem nada.
+— Eu gosto daqui, Denny.— Aqui não tem nada.
 
 — Tem tudo que eu conheço. — Ela empurrou a porta. — Você é que acha que "nada" e "pouco" são a mesma coisa.
 
@@ -1113,9 +1112,9 @@ A estrada de terra que levava pra fora da cidade virava, depois de um tempo, pou
 
 — Eu sei a direção geral.
 
-— Direção geral não é a mesma coisa que saber o caminho.
+— Isso não é saber o caminho.
 
-— Eu prefiro chamar de "confiança no processo".
+— Prefiro chamar de confiança no processo.
 
 Na descida de uma ladeira íngreme demais pra qualquer bicicleta daquela década, a corrente da bicicleta de Sam saltou fora do lugar com um barulho seco, e ele quase foi ao chão, se salvando só porque Cass, andando ao lado, teve o reflexo de segurar o guidão dele a tempo.
 
@@ -1125,9 +1124,13 @@ Na descida de uma ladeira íngreme demais pra qualquer bicicleta daquela década
 
 Passamos os vinte minutos seguintes sentados na beira da trilha enquanto Marcus, que jurava entender de bicicleta, tentava recolocar a corrente no lugar sujando as mãos de graxa até os cotovelos, sem sucesso, até Cass simplesmente empurrar ele de lado e resolver o problema em menos de dois minutos.
 
-— Como você fez isso tão rápido? — perguntou Marcus, genuinamente impressionado.
+— Como você fez isso tão rápido?
 
-— Eu conserto a bicicleta da minha avó desde os nove anos, Marcus. Alguém precisa.
+— Conserto a bicicleta da minha avó desde os nove anos.
+
+Marcus olhou pra ela.
+
+— Alguém precisa — completou Cass.
 
 Ele não teve resposta pra isso, e passamos a comer o lanche da avó de Cass ali mesmo, sentados na grama alta ao lado da trilha, dividindo sanduíches de presunto que já estavam quentes demais e mesmo assim eram a melhor coisa que eu já tinha comido, ou pelo menos foi assim que pareceu naquele momento.
 
@@ -1149,11 +1152,11 @@ O riacho em si, quando finalmente chegamos perto o bastante pra ouvi-lo, era mai
 
 Foi Cass quem primeiro notou a distância que já tínhamos percorrido.
 
-— A gente tá bem mais longe de casa do que eu pensei — disse, olhando pra trás, na direção de onde tínhamos vindo, a cidade já invisível atrás das árvores.
+— A gente tá bem mais longe de casa do que eu pensei.
 
-— A gente sempre pode voltar — falei.
+— A gente sempre pode voltar.
 
-— Eu sei que a gente sempre pode. Só tô dizendo.
+— Eu sei. Só tô dizendo.
 
 Havia, na voz dela, uma coisa nova que eu não soube nomear na hora — não medo exatamente, mas o primeiro sinal de que talvez estivéssemos prestes a descobrir que existia uma diferença entre brincar de aventura e estar, de fato, longe demais de qualquer adulto que pudesse ajudar se alguma coisa desse errado.
 
@@ -1165,7 +1168,7 @@ Havia um carro da polícia estacionado longe, na outra margem, pequeno demais pr
 
 — Talvez já tenham levado ele — sugeriu Cass, com uma nota de alívio na voz que ela tentava esconder.
 
-— Vamos verificar — insistiu Marcus.
+— Vamos ver — insistiu Marcus.
 
 Atravessamos a ponte de madeira apodrecida com um cuidado que nenhum de nós admitiria em voz alta ser medo, e seguimos a trilha que descia até a margem oposta do riacho, onde a mata ficava mais densa e o barulho da água corrente engolia qualquer outro som.
 
@@ -1194,9 +1197,13 @@ Foi Cass quem se mexeu primeiro.
 
 — A gente precisa ir embora — disse, a voz mais baixa do que eu jamais tinha ouvido dela. — Agora. E contar pra um adulto.
 
-— A gente devia esperar a polícia—
+— A gente devia esperar a polícia.
 
-— Denny. — Ela me olhou, e havia nos olhos dela uma coisa que eu reconheceria, muitos anos depois, em salas de redação, no rosto de colegas mais velhos vendo pela primeira vez uma fotografia que não conseguiam mais desver. — Isso não é brincadeira de detetive. Precisamos ir.
+— Denny.
+
+Ela me olhou.
+
+— Isso não é brincadeira de detetive. Precisamos ir.
 
 Ela tinha razão, do jeito que ela quase sempre tinha razão, e dessa vez ninguém discutiu.
 
@@ -1284,25 +1291,26 @@ Nem tudo naquelas duas semanas foi fácil, e eu não quero fingir, décadas depo
 
 Marcus tinha emprestado, sem autorização de ninguém além de si mesmo, a bicicleta de Sam pra tentar um salto na rampa dos Halloran, e voltou com o guidão torto e uma desculpa esfarrapada envolvendo "uma pedra que ninguém podia ter previsto".
 
-— Você nem pediu — disse Sam, examinando o guidão com uma calma que era pior do que gritaria teria sido.
+— Você nem pediu — disse Sam, examinando o guidão.
 
 — Eu ia pedir depois.
 
-— Isso não é como pedir funciona, Marcus.
+— Isso não é pedir.
 
-— Eu ia consertar antes que você notasse!
+— Eu ia consertar antes de você notar.
 
-— Eu notei na hora, porque é a minha bicicleta.
+— É a minha bicicleta, Marcus.
 
 A discussão continuou por boa parte da tarde, os dois trocando farpas cada vez menores e mais idiotas, Cass revirando os olhos entre um comentário e outro, e eu tentando, sem muito sucesso, fazer o papel de mediador que nenhum dos dois tinha pedido.
 
 Ficaram bravos um com o outro por quase um dia inteiro — um recorde, pros padrões deles — até Marcus aparecer na porta da casa de Sam na manhã seguinte carregando o guidão consertado com fita isolante e uma lata de refrigerante como oferenda de paz.
+— Ainda tá torto.
 
-— Ainda tá torto — observou Sam, examinando o reparo.
 — Tá menos torto.
-— Isso não é a mesma coisa que consertado.
 
-— É consertado o suficiente pra andar em linha reta na maior parte do tempo.
+— Isso não é consertado.
+
+— É consertado o suficiente.
 
 Sam aceitou a lata de refrigerante, o que na linguagem particular dos dois já significava que a guerra tinha acabado, e passaram o resto do dia andando juntos pela cidade, o guidão puxando levemente pra esquerda, Sam reclamando a cada quarteirão e Marcus fingindo não ouvir.
 
@@ -1312,21 +1320,23 @@ Foi naquele mesmo período — os últimos dias verdadeiramente tranquilos daque
 
 Estávamos na rampa de terra atrás da casa dos Halloran, uma subida de bicicleta que a gente tinha decidido, sem nenhuma base de engenharia, que era "praticamente igual" às rampas que apareciam num programa de esportes radicais que passava tarde da noite na TV.
 
-— Aposto que consigo pular de olhos fechados — anunciou Marcus, já subindo a rampa antes que alguém pudesse dizer que aquela era, sem dúvida, a pior ideia do verão.
+— Aposto que consigo pular de olhos fechados.
 
-— Isso é a pior ideia do verão — disse Cass, tarde demais.
+— Isso é a pior ideia do verão — disse Cass.
 
-— Segunda pior — corrigiu Sam, sem erguer os olhos do caderno. — A pior ainda não aconteceu.
+Sam nem levantou os olhos.
+
+— Segunda pior.
 
 Ele não sabia o quanto estava certo.
 
 Marcus fechou os olhos, pedalou com tudo, e conseguiu, contra qualquer expectativa razoável, completar o salto inteiro — e errar completamente a aterrissagem, caindo de lado na grama com um baque que tirou o ar dele por bons cinco segundos enquanto os três corríamos, apavorados, até descobrir que ele estava rindo, sem fôlego, os olhos ainda fechados.
 
-— EU CONSEGUI — gritou, assim que recuperou o ar. — VOCÊS VIRAM?
+— EU CONSEGUI! — gritou, assim que recuperou o ar. — VOCÊS VIRAM?
 
 — Você caiu, Marcus.
 
-— Eu caí DEPOIS de pular. É diferente.
+— Depois de pular. É diferente.
 
 Cass o ajudou a se levantar com uma força que fazia parecer que ela estava, ao mesmo tempo, aliviada e com uma vontade genuína de empurrá-lo de volta pro chão.
 
@@ -1336,7 +1346,7 @@ Cass o ajudou a se levantar com uma força que fazia parecer que ela estava, ao 
 
 — Eu não ia explicar nada.
 
-— Você é a melhor em explicar as coisas, Cass. É um dom.
+— Você explica melhor que todo mundo.
 
 Ela revirou os olhos, mas eu vi o canto da boca dela subir antes de conseguir se impedir, e passamos o resto da tarde inventando variações cada vez mais elaboradas e cada vez menos seguras do mesmo salto, até a mãe do Halloran aparecer na porta gritando que ia contar pra todo mundo se a rampa não sumisse até o jantar.
 
@@ -1354,11 +1364,11 @@ Eu passei anos achando isso engraçado. Só muito mais tarde percebi que era exa
 
 Foi Cass quem trouxe a notícia, numa manhã de terça-feira, pedalando tão rápido que quase caiu da bicicleta ao frear na nossa frente.
 
-— O Rex apareceu sozinho na cidade essa manhã.
+— O Rex apareceu sozinho na cidade hoje.
 
 — E daí? Ele sempre vem sozinho.
 
-— Não desse jeito, Denny. Sem cesta.
+— Não desse jeito. Sem cesta.
 
 Paramos de mexer nas bicicletas.
 
@@ -1372,7 +1382,11 @@ Cass demorou um segundo. Ela era boa em contar coisas. Quando ela hesitava, era 
 
 — Como assim?
 
-— Ele tava na porta, mas latindo pro outro lado. — Ela apontou com o queixo, sem pensar, na direção das árvores. — Pra lá.
+— Tava latindo pro outro lado.
+
+Ela apontou para as árvores.
+
+— Pra lá.
 
 ---
 
@@ -1386,9 +1400,13 @@ Foi isso que me pegou, e eu ainda não sei explicar bem por quê. Um cachorro qu
 
 — Ele tá vigiando — falou Marcus, baixinho.
 
-— Vigiando o quê?
+— O quê?
 
-— Sei lá. — Marcus estava com as duas mãos apertadas no guidão. — Mas ele tá de costas pra casa, Denny. Quem vigia fica de costas pra coisa que tá protegendo.
+— Não sei. Mas tá de costas pra casa.
+
+Ele apertou o guidão.
+
+— Quem vigia fica de costas praquilo que tá protegendo.
 
 Sam já tinha o caderno aberto.
 
@@ -1402,15 +1420,15 @@ No caminho de volta, Cass pedalava na frente, como sempre, e desacelerou até fi
 
 — O quê?
 
-— Ele tava olhando pra oeste.
+— Ele tava olhando pro oeste.
 
 — O Rex?
 
-— O Rex hoje de manhã, na delegacia. E os pardais, naquele dia da arcade. — Ela olhou pra frente. — É a mesma direção.
+— O Rex hoje. E os pardais, naquele dia da arcade. Mesma direção.
 
-— É a direção da pedreira.
+— A pedreira.
 
-— É a direção de um monte de coisa. — Ela acelerou de novo. — Eu só tô falando que é a mesma.
+— Um monte de coisa fica naquela direção. Só tô dizendo que é a mesma.
 
 Cass nunca dizia mais do que tinha certeza. Era a coisa mais assustadora dela.
 
@@ -1473,27 +1491,39 @@ A Biblioteca Pública de Sparrow Hollow ocupava o segundo andar da prefeitura, a
 
 Levei um segundo inteiro, na primeira vez que ouvi o sobrenome dela, para conectar os pontos.
 
-— Pruitt? — perguntei, baixinho, enquanto os quatro subíamos a escada estreita que levava à biblioteca. — Tipo, do mesmo jeito que o Sr. Pruitt da represa?
+— Pruitt? — perguntei. — O mesmo do Sr. Pruitt da represa?
 
-— Irmã dele — respondeu Cass, como se fosse óbvio. — Todo mundo sabe disso.
+— Irmã dele.
+
+Cass me olhou.
+
+— Todo mundo sabe disso.
 
 Eu não sabia. Mas guardei a informação do jeito que vinha guardando tudo aquele verão — numa gaveta mental que ia ficando cada vez mais cheia, sem eu entender ainda como as peças se encaixavam.
 
 A senhorita Pruitt não se parecia nada com o irmão. Onde ele era magro e desconfiado, ela era pequena e redonda, óculos pendurados numa corrente de metal, e um jeito de olhar por cima das lentes que fazia qualquer criança se sentir simultaneamente bem-vinda e levemente investigada.
 
-— Vocês quatro de novo — disse, sem erguer os olhos do livro que catalogava. — Deixa eu adivinhar. Mais uma pesquisa sobre a pedreira.
+— Vocês quatro de novo. — Ela não ergueu os olhos do livro. — Deixa eu adivinhar: pedreira.
 
 Ficamos em silêncio por tempo demais para conseguir negar de forma convincente.
 
 — Como você sabe?
 
-— Porque, nos últimos trinta anos, toda geração de crianças desta cidade passa exatamente pela mesma fase, por volta dos treze anos. — Ela finalmente ergueu os olhos. — Parece que a curiosidade pula uma geração, e depois volta.
+— Porque toda geração de crianças desta cidade chega aqui com a mesma curiosidade, por volta dos treze anos.
+
+Ela ergueu os olhos.
+
+— Parece que ela pula uma geração.
 
 — Isso é bom ou ruim? — perguntou Marcus.
 
-A senhorita Pruitt considerou a pergunta com uma seriedade que nenhum de nós esperava.
+Ela pensou por um instante.
 
-— Depende inteiramente do que vocês fizerem depois de satisfazer a curiosidade. — Ela fechou o livro. — Venham comigo.
+— Depende do que vocês fazem depois de descobrir.
+
+Fechou o livro.
+
+— Venham comigo.
 
 ---
 
@@ -1947,8 +1977,7 @@ Sam ficou quieto um tempo.
 
 — Nada. — Ele estava com o caderno no colo, fechado, as duas mãos em cima. — Ele ficou de pé olhando pro oeste, Denny. Uma hora e pouco. Eu contei.
 
-— Contando o quê?
-— Eu não sei. — Ele olhou pra mim. — Ele não tava fazendo nada. Só tava olhando. E quando entrou, ele trancou a porta dos fundos com a chave, e a gente nunca tranca a porta dos fundos com a chave.
+— Contando o quê?— Eu não sei. — Ele olhou pra mim. — Ele não tava fazendo nada. Só tava olhando. E quando entrou, ele trancou a porta dos fundos com a chave, e a gente nunca tranca a porta dos fundos com a chave.
 Nós dois ficamos ali na escada por um tempo, ouvindo os grilos, o tipo de silêncio confortável que só existe entre duas pessoas que se conhecem desde antes de saberem que se conheciam.
 
 — Você quer ir mesmo? — perguntei.
@@ -2597,7 +2626,6 @@ Nenhum de nós tinha reparado antes, mas ele tinha razão: perto do início da e
 
 Marcus se aproximou o suficiente pra tentar ler, o pescoço esticado.
 — Não dá pra ver direito. Tá gasto.
-
 — Deixa assim — falei, puxando o braço dele de volta. — A gente não precisa ler.
 Ele deixou. Mas eu vi, no rosto dele, à luz da lanterna, que uma parte dele já tinha decidido que precisava saber, e que essa parte ia continuar ali, esperando uma segunda chance.
 
@@ -3248,7 +3276,6 @@ Foi Sam quem sugeriu, pela primeira vez, a ideia que nenhum de nós tinha corage
 
 — Do que você tá falando?
 — Naquela noite, quando ele desceu — Sam parou, respirando fundo antes de continuar — você viu, Denny. Você mesmo disse que viu. Por um segundo, o rosto dele rachou, e o Marcus de verdade gritou por ajuda antes de aquilo se fechar de novo.
-
 Eu tinha visto. Repetia aquele momento na minha cabeça todas as noites antes de dormir, sem conseguir decidir se era esperança ou tortura lembrar.
 
 — Se aconteceu uma vez — continuou Sam — talvez aconteça de novo. Talvez a gente consiga... eu não sei. Alcançar ele. Trazer ele de volta pra fora, de algum jeito.
@@ -3897,7 +3924,6 @@ Fiquei olhando pra tela por um tempo comprido, o coração batendo de um jeito q
 
 Não escrevi pra ele. Não sei, até hoje, se ele ainda está vivo, ou onde está, ou se lembraria de mim se eu aparecesse na porta dele com essa história inteira debaixo do braço.
 Só fechei o computador, e fui dormir, e não dormi bem.
-
 ---
 
 Na manhã seguinte, encontrei, entre as contas e propagandas de sempre, um envelope.
