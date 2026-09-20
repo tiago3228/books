@@ -6023,7 +6023,7 @@ O vidro da janela rachou atrás dela sem que ninguém o tivesse tocado.
 
 Uma única linha fina, silenciosa, avançando devagar como se algo, do outro lado da neve, estivesse simplesmente esperando pra ver o que eu faria a seguir.
 
-E foi ali, com o dedo tenso sobre o gatilho e trinta e cinco anos de vida resumidos àquele único segundo impossível de desfazer, que finalmente entendi a verdadeira pergunta que Black Pine vinha me fazendo desde o dia em que atravessara aquela placa de madeira na estrada.
+E foi ali, com o dedo tenso sobre o gatilho e trinta e seis anos de vida resumidos àquele único segundo impossível de desfazer, que finalmente entendi a verdadeira pergunta que Black Pine vinha me fazendo desde o dia em que atravessara aquela placa de madeira na estrada.
 
 Não era sobre quem morreria.
 
