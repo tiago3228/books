@@ -52,7 +52,7 @@ jobs:
           # Livro 1 — Black Pine
           insert_once('BLACK_PINE_livro1_COMPLETO.md', 'Prata.', '![BP-01 — A moeda 17](images/black-pine/BP-01-moeda-17.png)')
           insert_once('BLACK_PINE_livro1_COMPLETO.md', '**217.**', '![BP-02 — Fotografia + 217](images/black-pine/BP-02-fotografia-217.png)')
-          insert_once('BLACK_PINE_livro1_COMPLETO.md', 'Porque o frio estava ganhando.', '![BP-03 — Black Pine Station](images/black-pine/BP-03-estacao-abandonada.png)')
+          insert_once('BLACK_PINE_livro1_COMPLETO.md', 'Parecia uma estação que tinha simplesmente esquecido de morrer.', '![BP-03 — Black Pine Station](images/black-pine/BP-03-estacao-abandonada.png)')
           insert_once('BLACK_PINE_livro1_COMPLETO.md', '**O tempo daquela casa não estava passando.**', '![BP-04 — Relógio 02h17](images/black-pine/BP-04-relogio-0217.png)')
 
           # Livro 2 — Sparrow Hollow
