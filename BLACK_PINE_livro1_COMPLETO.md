@@ -6303,7 +6303,7 @@ O rosto, em todas as fotografias, sem uma única ruga de diferença, era exatame
 
 Não contei a Emily o que tinha descoberto.
 
-Não naquela tarde, nem na semana seguinte, nem em nenhum momento durante os dois meses que passamos planejando — sem nunca dizer em voz alta que era isso que estávamos fazendo — a vida que viria depois daquele inverno.
+Não naquela tarde, nem na semana seguinte, nem em nenhum momento durante os dois meses que passamos planejando — sem nunca dizer em voz alta que era isso que estávamos fazendo — a vida que viria depois daquele inverno, nas semanas seguintes..
 
 Guardei a informação do mesmo jeito que Black Pine me ensinara a guardar tudo.
 
