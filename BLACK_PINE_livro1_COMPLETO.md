@@ -1,5 +1,6 @@
 # BLACK PINE
 ### Livro 1 — universo de Black Pine
+**Tiago Cardoso**
 *Romance de suspense psicológico*
 
 ---
