@@ -19,8 +19,6 @@ Para convencer a mim mesmo.
 
 O cheiro de fumaça estava ali.
 
-Eu sentia.
-
 Madeira queimada. Tecido. Poeira quente.
 
 Mas nenhuma chama iluminava a sala.
@@ -133,7 +131,7 @@ Senti o estômago afundar.
 
 Ela abriu os olhos.
 
-E havia alguma coisa neles que eu não tinha visto antes.
+Havia alguma coisa neles que eu não tinha visto antes.
 
 Não era medo.
 
@@ -194,6 +192,8 @@ Engoli em seco.
 — Eu precisava.
 
 — Precisava me deixar descobrir sozinho?
+
+Ela sustentou meu olhar.
 
 — Precisava que você chegasse até aqui.
 
@@ -300,7 +300,7 @@ Desliguei o rádio.
 
 Por alguns segundos, fiquei olhando para a placa através do para-brisa.
 
-O limpador de vidro fez uma última passada.
+O limpador fez uma última passada.
 
 *Chac.*
 
@@ -311,8 +311,6 @@ Olhei o relógio do painel.
 **16h16.**
 
 — Ótimo.
-
-Falei sozinho.
 
 Eu tinha uma relação ruim com números repetidos.
 
@@ -326,7 +324,7 @@ Tenho trinta e seis anos.
 
 Sou jornalista.
 
-E naquele momento eu ainda acreditava que tinha ido para Black Pine por causa de um trabalho.
+E naquele momento ainda acreditava que tinha ido para Black Pine por causa de um trabalho.
 
 Essa foi minha primeira mentira.
 
@@ -6369,3 +6367,7 @@ Uma investigação que atravessa quatro estações, décadas de silêncio e uma 
 *Black Pine é um suspense psicológico sobre memória, culpa e o preço de descobrir a verdade numa cidade pequena demais para guardar segredos grandes demais.*
 
 ---
+
+
+
+
