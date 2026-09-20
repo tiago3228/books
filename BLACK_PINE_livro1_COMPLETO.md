@@ -1124,9 +1124,7 @@ Normal.
 
 Sorri nervosamente.
 
-— Cansaço.
-
-Era minha explicação favorita.
+Dessa vez, chamei de cansaço.
 
 ---
 
