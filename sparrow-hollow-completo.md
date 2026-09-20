@@ -2604,9 +2604,9 @@ Isso é importante que eu deixe claro, escrevendo agora, décadas depois, com to
 
 Não houve um momento de decisão consciente, nenhum de nós dizendo em voz alta "vamos até a pedreira". Houve, em vez disso, uma sequência de pequenos passos, cada um parecendo razoável isoladamente, que nos levou, sem que percebêssemos completamente como, até a cerca de arame farpado pouco depois da meia-noite.
 
-— Só vamos até a boca da pedreira — disse Marcus, a lanterna tremendo levemente em sua mão. — Só olhar. Não vamos descer.
+— Só vamos até a boca da pedreira — disse Marcus, a lanterna tremendo na mão. — Só olhar. Não vamos descer.
 
-— Só olhar — concordou Cass, sem muita convicção na voz.
+— Só olhar — concordou Cass.
 
 Sam não disse nada. Só ergueu o arame farpado, criando espaço suficiente para os quatro passarem, um a um, para o outro lado.
 
@@ -2659,8 +2659,8 @@ Foi Sam quem quebrou o silêncio, a voz saindo estranhamente controlada.
 Nenhum de nós tinha reparado antes, mas ele tinha razão: perto do início da escada, entalhado na rocha, quase apagado pela erosão de décadas, havia algo. Um número, talvez, ou o que restava dele.
 
 Marcus se aproximou o suficiente pra tentar ler, o pescoço esticado.
-— Não dá pra ver direito. Tá gasto.
-— Deixa assim — falei, puxando o braço dele de volta. — A gente não precisa ler.
+— Não dá pra ver. Tá gasto.
+— Deixa assim — falei, puxando o braço dele. — A gente não precisa ler.
 Ele deixou. Mas eu vi, no rosto dele, à luz da lanterna, que uma parte dele já tinha decidido que precisava saber, e que essa parte ia continuar ali, esperando uma segunda chance.
 
 ---
@@ -2690,7 +2690,7 @@ Ele se virou para ela, e no facho cruzado das nossas lanternas, por uma fração
 
 Cass soltou o braço dele, o próprio corpo travando de horror.
 
-— Marcus — falei, a voz tremendo tanto quanto meu corpo inteiro. — Isso não é você.
+— Marcus — falei. — Isso não é você.
 
 — Claro que sou eu, Denny.
 
@@ -2702,7 +2702,7 @@ Não era um sorriso ruim, exatamente. Era só... errado. Um sorriso que usava o 
 
 ---
 
-— Corram — disse Sam, a voz baixa e urgente. — Agora.
+— Corram — disse Sam, baixo. — Agora.
 
 Não corremos. Não conseguíamos. Estávamos presos ali, os três, observando Marcus continuar descendo os degraus de pedra, cada vez mais fundo, a luz amarelada crescendo ao redor dele como se o estivesse recebendo.
 
@@ -2738,11 +2738,11 @@ Batemos na primeira porta que encontramos — a casa mais próxima da estrada, q
 
 Ele abriu a porta de pijama, a arma já na mão antes mesmo de perguntar o que houve, como se uma parte dele, havia anos, estivesse esperando exatamente por aquela batida na porta.
 
-— O que aconteceu? — perguntou, olhando para os nossos rostos apavorados, sujos de terra e lágrimas.
+— O que aconteceu? — perguntou, olhando nossos rostos sujos de terra e lágrimas.
 
-Não consegui responder de imediato.
+Não consegui responder.
 
-Foi Cass quem finalmente encontrou as palavras, a voz reduzida a um sussurro que eu jamais esqueceria.
+Foi Cass quem encontrou as palavras, num sussurro que eu jamais esqueceria.
 
 — A pedreira levou o Marcus.
 
@@ -2781,7 +2781,7 @@ Nós três nos entreolhamos.
 
 O xerife Boyle assentiu devagar, e por um instante ele pareceu muito mais velho do que era, o rosto carregando o peso de alguma coisa que estava calculando por dentro e não ia dizer em voz alta.
 
-— Vocês fizeram bem em não tentar ler — disse, finalmente, e se levantou antes que qualquer um de nós pudesse perguntar por quê.
+— Vocês fizeram bem em não tentar ler — disse, e se levantou antes que pudéssemos perguntar por quê.
 
 Ele foi até a janela, olhou para a escuridão lá fora por um longo momento, e quando voltou a falar, a voz dele tinha mudado.
 
@@ -2795,7 +2795,7 @@ Ele foi até a janela, olhou para a escuridão lá fora por um longo momento, e 
 
 O xerife Boyle se agachou até ficar da minha altura, e havia nos olhos dele algo que eu reconheceria muito mais tarde, num porão de uma casa em outra rua, num rosto muito mais velho.
 
-— Filho, exatamente por isso você fica.
+— Filho. Exatamente por isso você fica.
 
 ---
 
@@ -2817,11 +2817,11 @@ Foi Cass quem finalmente disse.
 
 — Ele prometeu que a gente ia atrás. Foi ele mesmo que disse isso. Ontem.
 
-— A gente vai — falei, sem saber ainda o que aquilo significava, sem imaginar que levaria semanas pra descobrir do que exatamente estávamos falando.
+— A gente vai — falei, sem saber ainda o que aquilo significava.
 
 Sam fechou o caderno.
 
-— A gente vai — repetiu, e pela primeira vez naquele verão a voz dele não soou como a de um garoto de treze anos tentando parecer corajoso.
+— A gente vai — repetiu, e pela primeira vez naquele verão a voz dele não soou como a de um garoto tentando parecer corajoso.
 
 Soou como alguém que já tinha decidido.
 
@@ -2901,7 +2901,7 @@ Minha mãe me levou pra fazer compras no segundo dia — eu acho, olhando pra tr
 
 — Terrível mesmo. Essas crianças andando por onde não devem.
 
-— É o que eu digo. Meus filhos não passam nem perto daquela estrada.
+— Meus filhos não passam nem perto daquela estrada.
 
 Nenhuma das duas disse a palavra pedreira. As duas disseram "por onde não devem" e "daquela estrada", como se dizer o nome do lugar carregasse algum peso extra que nenhuma das duas estava disposta a pagar.
 
@@ -2928,11 +2928,11 @@ E então, quando terminou, fechou o caderno e disse uma coisa que eu não espera
 
 — Mas não foi isso que aconteceu.
 
-— Eu sei o que você me contou, filho. — Ele olhou pra mim com uma seriedade cansada. — E eu acredito em você. Mais do que você imagina.
+— Eu sei o que você me contou. — Ele me olhou com uma seriedade cansada. — E acredito em você. Mais do que você imagina.
 
 — Então por que vai escrever outra coisa?
 
-Ele demorou pra responder, girando a xícara de café entre as mãos sem beber.
+Ele girou a xícara entre as mãos antes de responder.
 
 — Porque um relatório que diz "uma luz no fundo da pedreira levou o menino e o rosto dele mudou de cor" não traz o Marcus de volta mais rápido. Só faz um monte de gente de fora vir aqui fazer pergunta, e nenhuma dessas perguntas ajuda ninguém.
 
@@ -2960,7 +2960,7 @@ Ela me olhou por um longo momento, e então, baixinho, perguntou a única pergun
 
 — O que vocês viram lá, de verdade?
 
-Contei tudo. Cada detalhe, sem suavizar nada — a luz, a voz, o sorriso errado, as palavras finais dele antes da escuridão engolir sua silhueta.
+Contei tudo. A luz, a voz, o sorriso errado, as últimas palavras antes da escuridão engolir sua silhueta.
 
 Ela ouviu em silêncio completo, o cigarro queimando esquecido entre os dedos, e quando terminei, ela só assentiu, devagar, como alguém recebendo a confirmação de algo que já temia havia muito tempo.
 
@@ -2993,7 +2993,7 @@ Ficamos em silêncio por um tempo, o cheiro de cigarro apagado ainda pairando en
 
 — Que tipo de casos?
 
-— O tipo que ninguém investiga direito. O tipo que vira lenda urbana rápido demais, histórico oficial devagar demais, até todo mundo simplesmente concordar em parar de perguntar.
+— Os que ninguém investiga direito. Viram lenda rápido demais e registro oficial devagar demais, até todo mundo concordar em parar de perguntar.
 
 Ela olhou para mim, e havia nos olhos dela algo que reconheci, com um arrepio, como sendo exatamente o mesmo tipo de olhar que a bibliotecária Pruitt tinha nos dado, semanas antes, na sala dos arquivos.
 
@@ -3003,9 +3003,9 @@ Meu coração começou a bater mais forte.
 
 — A senhora lembra o nome da cidade?
 
-Ela balançou a cabeça, devagar.
+Ela balançou a cabeça.
 
-— Começava com "Black", eu acho. Ou "Blackwood". Alguma coisa assim. Nunca prestei atenção o suficiente pra guardar de verdade.
+— Começava com "Black", eu acho. Ou "Blackwood". Alguma coisa assim. Nunca guardei direito.
 
 Não corrigi ela.
 
@@ -3299,9 +3299,9 @@ Eu tinha minha própria lista, crescendo dia após dia, cada item pequeno demais
 
 Ninguém disse nada por um longo momento.
 
-— O que a gente faz? — perguntou Cass, finalmente, a pergunta que pairava sobre nós havia dias.
+— O que a gente faz? — perguntou Cass.
 
-Ninguém teve resposta.
+Ninguém respondeu.
 
 ---
 
