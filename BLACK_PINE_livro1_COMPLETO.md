@@ -704,7 +704,7 @@ Colocou na boca.
 
 — Eu?
 
-— Você veio procurar alguma coisa?
+— Veio procurar alguma coisa?
 
 O jornalista dentro de mim acordou.
 
@@ -714,7 +714,7 @@ Ele sorriu.
 
 — Todo mundo que vem para Black Pine procura alguma coisa.
 
-— E você encontrou?
+— E você?
 
 O sorriso desapareceu.
 
@@ -940,9 +940,11 @@ Falou baixo.
 
 — Algumas pessoas recebem.
 
-Pausa.
+— E as outras?
 
-— Outras são a moeda.
+Emily olhou para a moeda.
+
+— São a moeda.
 
 Antes que eu pudesse perguntar o que aquilo significava, Maggie chamou:
 
@@ -978,6 +980,12 @@ Ela hesitou.
 
 — Não abra.
 
+— Por quê?
+
+Ela já estava abrindo a porta.
+
+— Porque eu estou pedindo.
+
 O sino tocou quando ela saiu.
 
 Fiquei olhando para a porta.
@@ -994,7 +1002,7 @@ Ela colocou o pano sobre o balcão.
 
 — Só quando gosta de alguém.
 
-— E se não gostar?
+— E quando não gosta?
 
 Maggie olhou para a moeda no meu bolso.
 
