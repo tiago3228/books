@@ -1,7 +1,6 @@
 # SPARROW HOLLOW
 ### Livro 2 — universo de Black Pine
-
-**Manuscrito consolidado — versão de trabalho**
+**Tiago Cardoso**
 
 ---
 
