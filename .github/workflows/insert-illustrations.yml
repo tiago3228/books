@@ -1,0 +1,91 @@
+name: Insert trilogy illustrations
+
+on:
+  push:
+    paths:
+      - .github/workflows/insert-illustrations.yml
+      - .illustrations_payload.b64
+
+permissions:
+  contents: write
+
+jobs:
+  insert:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Decode illustration payload
+        run: |
+          base64 -d .illustrations_payload.b64 > /tmp/images_payload.tar.gz
+          tar -xzf /tmp/images_payload.tar.gz -C /tmp
+          python -m pip install --quiet pillow
+          python - <<'PY'
+          from PIL import Image
+          from pathlib import Path
+          root = Path('/tmp/images')
+          for p in root.rglob('*.jpg'):
+              out = p.with_suffix('.png')
+              Image.open(p).save(out, format='PNG', optimize=True)
+              p.unlink()
+          PY
+          cp -R /tmp/images/* images/ 2>/dev/null || true
+
+      - name: Insert images without changing narrative text
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          def insert_once(path, anchor, image_line, occurrence=1):
+              p = Path(path)
+              text = p.read_text(encoding='utf-8')
+              if image_line in text:
+                  raise SystemExit(f'Image already present in {path}: {image_line}')
+              count = text.count(anchor)
+              if count != occurrence:
+                  raise SystemExit(f'Anchor count mismatch in {path}: expected {occurrence}, got {count}: {anchor!r}')
+              text = text.replace(anchor, anchor + '\n\n' + image_line, occurrence)
+              p.write_text(text, encoding='utf-8')
+
+          # Livro 1 — Black Pine
+          insert_once('BLACK_PINE_livro1_COMPLETO.md', 'Prata.', '![BP-01 — A moeda 17](images/black-pine/BP-01-moeda-17.png)')
+          insert_once('BLACK_PINE_livro1_COMPLETO.md', '**217.**', '![BP-02 — Fotografia + 217](images/black-pine/BP-02-fotografia-217.png)')
+          insert_once('BLACK_PINE_livro1_COMPLETO.md', 'Porque o frio estava ganhando.', '![BP-03 — Black Pine Station](images/black-pine/BP-03-estacao-abandonada.png)')
+          insert_once('BLACK_PINE_livro1_COMPLETO.md', '**O tempo daquela casa não estava passando.**', '![BP-04 — Relógio 02h17](images/black-pine/BP-04-relogio-0217.png)')
+
+          # Livro 2 — Sparrow Hollow
+          insert_once('sparrow-hollow-completo.md', 'Pequena. De prata, ou de alguma coisa que já tinha sido prata. Opaca demais pra brilhar direito sob a luz da janela alta.', '![SH-01 — A moeda 4](images/sparrow-hollow/SH-01-moeda-4.png)')
+          insert_once('sparrow-hollow-completo.md', 'O que ninguém explicava direito era o motivo do fechamento.', '![SH-02 — A pedreira vazia](images/sparrow-hollow/SH-02-pedreira.png)')
+          insert_once('sparrow-hollow-completo.md', 'todos olhando na mesma direção — para o oeste, para além da cidade, para onde as árvores começavam a ficar mais altas e mais densas antes de dar lugar às antigas pedreiras abandonadas.', '![SH-03 — Os pássaros olhando para o oeste](images/sparrow-hollow/SH-03-passaros-oeste.png)')
+          insert_once('sparrow-hollow-completo.md', '*217 — o número da página do recorte cortado. Continuo sem saber por que anotei. Continuo sem conseguir esquecer.*', '![SH-04 — Arquivo / página 217](images/sparrow-hollow/SH-04-arquivo-pagina-217.png)')
+
+          # Livro 3 — Threshold, deliberately last.
+          insert_once('Threshold_livro3_FINAL.md', 'Nem parei pra olhar direito. Só empurrei de volta pro lugar com a ponta do dedo, sem pensar duas vezes, e segui o Caleb até o centro do celeiro.', '![TH-01 — A moeda no celeiro](images/threshold/TH-01-moeda-celeiro.png)')
+          insert_once('Threshold_livro3_FINAL.md', 'todo em metal escurecido, com um painel de controles que parecia ter saído direto de um filme de ficção científica de orçamento baixo demais pros efeitos especiais convencerem.', '![TH-02 — O aparelho do Programa Limiar](images/threshold/TH-02-aparelho-limiar.png)')
+          insert_once('Threshold_livro3_FINAL.md', 'e um único frasco de vidro grosso, chumbado, contendo um líquido espesso e escuro que parecia absorver a luz da sala em vez de refletir.', '![TH-03 — Registro nº 217](images/threshold/TH-03-registro-217.png)')
+          insert_once('Threshold_livro3_FINAL.md', 'está me guardando.', '![TH-04 — A moeda 217 no final](images/threshold/TH-04-moeda-217-final.png)')
+          PY
+
+      - name: Verify only image insertions changed manuscript files
+        run: |
+          git diff --check
+          git diff --unified=0 -- BLACK_PINE_livro1_COMPLETO.md sparrow-hollow-completo.md Threshold_livro3_FINAL.md > /tmp/manuscripts.diff
+          if grep -E '^[-+]' /tmp/manuscripts.diff | grep -Ev '^(---|\+\+\+|\+!\[)' ; then
+            echo 'Unexpected narrative text change detected.'
+            exit 1
+          fi
+          test "$(find images/black-pine -type f | wc -l)" -eq 4
+          test "$(find images/sparrow-hollow -type f | wc -l)" -eq 4
+          test "$(find images/threshold -type f | wc -l)" -eq 4
+
+      - name: Commit final illustration stage
+        run: |
+          rm -f .illustrations_payload.b64 .github/workflows/insert-illustrations.yml
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add BLACK_PINE_livro1_COMPLETO.md sparrow-hollow-completo.md Threshold_livro3_FINAL.md images
+          git add -u .illustrations_payload.b64 .github/workflows/insert-illustrations.yml || true
+          git commit -m "Trilogia Black Pine — inserção das ilustrações internas"
+          git push
