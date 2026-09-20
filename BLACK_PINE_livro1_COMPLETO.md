@@ -2482,7 +2482,7 @@ Agora eu tinha duas.
 
 E uma pergunta que não consegui evitar:
 
-**quantas pessoas precisaram desaparecer para que alguém começasse a contar?**
+**o que, exatamente, alguém estava contando?**
 
 ---
 
@@ -4238,6 +4238,10 @@ Dentro, prateleiras metálicas cobriam as paredes até o teto, carregadas de cai
 
 1951.
 
+Mais ao fundo, uma pasta fina trazia apenas uma data: 1968. A etiqueta original havia sido arrancada, e dentro dela havia uma única folha, dobrada duas vezes, sem título.
+
+Não a abri.
+
 Senti o coração acelerar.
 
 — Isso é a mesma sequência do mapa do abrigo.
@@ -5064,9 +5068,11 @@ Havia pena.
 
 E, se eu tivesse entrado naquele trem, você não estaria aqui agora, senhor Cole.
 
-Porque a floresta só recebe um forasteiro importante por geração.
+Porque, naquela noite, eu entendi que a floresta não estava contando pessoas.
 
-E, há treze anos, decidiu que não seria eu.
+Estava contando alguma outra coisa.
+
+E, há treze anos, eu quase completei a contagem.
 
 ---
 
