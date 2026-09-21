@@ -1,3 +1,5 @@
+![Capa do livro](capas/Black pine Capa nova.png)
+
 # BLACK PINE
 ### Livro 1 — Trilogia Black Pine
 **Tiago Cardoso**

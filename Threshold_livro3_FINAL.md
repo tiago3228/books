@@ -1,3 +1,5 @@
+![Capa do livro](capas/Capa do Livro Threshold nova.png)
+
 # THRESHOLD
 ### Livro 3 — Trilogia Black Pine
 *Romance de terror, ficção científica e body horror*

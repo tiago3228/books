@@ -1,3 +1,5 @@
+![Capa do livro](capas/Capa do livro — Sparrow Hollow nova.png)
+
 # SPARROW HOLLOW
 ### Livro 2 — Trilogia Black Pine
 **Tiago Cardoso**
