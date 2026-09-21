@@ -417,6 +417,8 @@ Pardais.
 
 Dezenas deles, pousados em fileira ao longo do fio, todos absolutamente imóveis, todos olhando na mesma direção — para o oeste, para além da cidade, para onde as árvores começavam a ficar mais altas e mais densas antes de dar lugar às antigas pedreiras abandonadas.
 
+![Ilustração — pássaros olhando para o oeste](imagens/sparrow-hollow/Pássaros sobre a cidade enevoada.png)
+
 — É só um bando de pássaros, Sam.
 
 — Eu sei o que é um bando de pássaros.
@@ -717,6 +719,8 @@ Em Sparrow Hollow, esse lugar era a pedreira velha.
 Fica a pouco mais de três quilômetros do centro, seguindo a Old Quarry Road até o asfalto virar terra batida e a terra batida virar só uma sugestão de trilha entre os pinheiros. A empresa de mineração fechou as operações lá em 1949 — isso todo mundo sabia, era o tipo de fato que se aprendia na escola, junto com a data de fundação da cidade e o nome do primeiro prefeito.
 
 O que ninguém explicava direito era o motivo do fechamento.
+
+![Ilustração — pedreira velha](imagens/sparrow-hollow/Ruínas da Mina na Floresta Cinzenta.png)
 
 — Minha avó diz que foi um desabamento — contou Cass, os quatro sentados na varanda da casa dela descascando favas para o jantar. — Um bocado de gente morreu.
 
@@ -1656,6 +1660,8 @@ Foi na hora de devolver o volume à prateleira que Marcus reparou.
 Entre as páginas do fim, presa com um pedaço de fita adesiva amarelada e ressecada, havia uma moeda.
 
 Pequena. De prata, ou de alguma coisa que já tinha sido prata. Opaca demais pra brilhar direito sob a luz da janela alta.
+
+![Ilustração — moeda 4](imagens/sparrow-hollow/Moeda Antiga no Livro de Maine.png)
 
 Marcus a descolou com cuidado — a fita saiu inteira, ressecada demais pra grudar em qualquer coisa — e virou a moeda entre os dedos.
 
@@ -3463,6 +3469,8 @@ Naquela noite, sozinho no meu quarto, escrevi numa folha de caderno tudo que sab
 *O Sr. Webb viu alguma coisa parecida muito longe daqui, e nem ele sabe se é a mesma coisa.*
 
 *217 — o número da página do recorte cortado. Continuo sem saber por que anotei. Continuo sem conseguir esquecer.*
+
+![Ilustração — arquivo e página 217](imagens/sparrow-hollow/Moeda Antiga sobre Jornal de Sparrow Hollow.png)
 
 Fiquei olhando para aquela lista por um longo tempo, sentindo o mesmo arrepio de sempre subir pela nuca, e adicionei, por fim, uma última linha — mais pergunta do que fato, mas que eu sabia, de alguma forma, ser a pergunta mais importante de todas.
 
